@@ -1,0 +1,33 @@
+ENTITY	text:Turkish	normalName:turkish	predictedType:UNK	q:true	qid:Q98	docId:98	origText:Turkish	url:NIL
+CANDIDATE	id:4337893	inCount:216	outCount:94	links:3391396;29992	url:http://en.wikipedia.org/wiki/Turkish_Riviera	name:Turkish Riviera	normalName:turkish-riviera	normalWikiTitle:turkish-riviera	predictedType:UNK	
+CANDIDATE	id:2088822	inCount:3503	outCount:519	links:3391396;29992;2088822	url:http://en.wikipedia.org/wiki/Turkish_people	name:Turkish people	normalName:turkish-people	normalWikiTitle:turkish-people	predictedType:UNK	
+CANDIDATE	id:38637407	inCount:11	outCount:40	links:	url:http://en.wikipedia.org/wiki/Turkish_Croatia	name:Turkish Croatia	normalName:turkish-croatia	normalWikiTitle:turkish-croatia	predictedType:UNK	
+CANDIDATE	id:167925	inCount:893	outCount:474	links:3391396;29992	url:http://en.wikipedia.org/wiki/Turkish_Airlines	name:Turkish Airlines	normalName:turkish-airlines	normalWikiTitle:turkish-airlines	predictedType:ORG	
+CANDIDATE	id:3503008	inCount:112	outCount:101	links:29992	url:http://en.wikipedia.org/wiki/Turkish_Wikipedia	name:Turkish Wikipedia	normalName:turkish-wikipedia	normalWikiTitle:turkish-wikipedia	predictedType:UNK	
+CANDIDATE	id:29992	inCount:8623	outCount:383	links:3503008;699393;4337893;4634448;2088822;1080251;28072015;3391396;167925;5434729;1345932;498827;29992	url:http://en.wikipedia.org/wiki/Turkish_language	name:Turkish language	normalName:turkish-language	normalWikiTitle:turkish-language	predictedType:UNK	
+ENTITY	text:ISTANBUL	normalName:istanbul	predictedType:UNK	q:true	qid:Q98	docId:98	origText:ISTANBUL	url:http://en.wikipedia.org/wiki/Istanbul
+CANDIDATE	id:3391396	inCount:10981	outCount:1030	links:15443641;40034174;699393;4337893;4634448;2088822;167925;5434729;29454056;1345932;498827;29992;1020775	url:http://en.wikipedia.org/wiki/Istanbul	name:Istanbul	normalName:istanbul	normalWikiTitle:istanbul	predictedType:UNK	
+CANDIDATE	id:498827	inCount:1292	outCount:136	links:3391396;29992;28072015	url:http://en.wikipedia.org/wiki/Istanbul_Province	name:Istanbul Province	normalName:istanbul-province	normalWikiTitle:istanbul-province	predictedType:GPE	
+CANDIDATE	id:1345932	inCount:549	outCount:251	links:3391396;29992	url:http://en.wikipedia.org/wiki/Istanbul_Park	name:Istanbul Park	normalName:istanbul-park	normalWikiTitle:istanbul-park	predictedType:UNK	
+CANDIDATE	id:8389903	inCount:2	outCount:2	links:	url:http://en.wikipedia.org/wiki/Istanbul_Airport	name:Istanbul Airport	normalName:istanbul-airport	normalWikiTitle:istanbul-airport	predictedType:UNK	
+CANDIDATE	id:5434729	inCount:23	outCount:81	links:5434729;3391396;1020775;29992	url:http://en.wikipedia.org/wiki/Names_of_Istanbul	name:Names of Istanbul	normalName:names-of-istanbul	normalWikiTitle:names-of-istanbul	predictedType:UNK	
+CANDIDATE	id:15443641	inCount:37	outCount:4	links:3391396	url:http://en.wikipedia.org/wiki/Istanbul_Center	name:Istanbul Center	normalName:istanbul-center	normalWikiTitle:istanbul-center	predictedType:UNK	
+CANDIDATE	id:1020775	inCount:104	outCount:77	links:5434729;3391396	url:http://en.wikipedia.org/wiki/Istanbul_(Not_Constantinople)	name:Istanbul	normalName:istanbul	normalWikiTitle:istanbul-not-constantinople	predictedType:UNK	
+CANDIDATE	id:699393	inCount:676	outCount:280	links:3391396;1080251;29992	url:http://en.wikipedia.org/wiki/Istanbul_University	name:Istanbul University	normalName:istanbul-university	normalWikiTitle:istanbul-university	predictedType:ORG	
+ENTITY	text:Turkish	normalName:turkish	predictedType:UNK	q:true	qid:Q98	docId:98	origText:Turkish	url:NIL
+CANDIDATE	id:4337893	inCount:216	outCount:94	links:3391396;29992	url:http://en.wikipedia.org/wiki/Turkish_Riviera	name:Turkish Riviera	normalName:turkish-riviera	normalWikiTitle:turkish-riviera	predictedType:UNK	
+CANDIDATE	id:2088822	inCount:3503	outCount:519	links:3391396;29992;2088822	url:http://en.wikipedia.org/wiki/Turkish_people	name:Turkish people	normalName:turkish-people	normalWikiTitle:turkish-people	predictedType:UNK	
+CANDIDATE	id:38637407	inCount:11	outCount:40	links:	url:http://en.wikipedia.org/wiki/Turkish_Croatia	name:Turkish Croatia	normalName:turkish-croatia	normalWikiTitle:turkish-croatia	predictedType:UNK	
+CANDIDATE	id:167925	inCount:893	outCount:474	links:3391396;29992	url:http://en.wikipedia.org/wiki/Turkish_Airlines	name:Turkish Airlines	normalName:turkish-airlines	normalWikiTitle:turkish-airlines	predictedType:ORG	
+CANDIDATE	id:3503008	inCount:112	outCount:101	links:29992	url:http://en.wikipedia.org/wiki/Turkish_Wikipedia	name:Turkish Wikipedia	normalName:turkish-wikipedia	normalWikiTitle:turkish-wikipedia	predictedType:UNK	
+CANDIDATE	id:29992	inCount:8623	outCount:383	links:3503008;699393;4337893;4634448;2088822;1080251;28072015;3391396;167925;5434729;1345932;498827;29992	url:http://en.wikipedia.org/wiki/Turkish_language	name:Turkish language	normalName:turkish-language	normalWikiTitle:turkish-language	predictedType:UNK	
+ENTITY	text:Interbank	normalName:interbank	predictedType:UNK	q:true	qid:Q98	docId:98	origText:Interbank	url:NIL
+CANDIDATE	id:14218072	inCount:21	outCount:20	links:	url:http://en.wikipedia.org/wiki/Interbank	name:Interbank	normalName:interbank	normalWikiTitle:interbank	predictedType:ORG	
+CANDIDATE	id:40034174	inCount:5	outCount:10	links:3391396	url:http://en.wikipedia.org/wiki/İnterbank	name:İnterbank	normalName:interbank	normalWikiTitle:interbank	predictedType:UNK	
+ENTITY	text:Isbank	normalName:isbank	predictedType:UNK	q:true	qid:Q98	docId:98	origText:Isbank	url:NIL
+CANDIDATE	id:42062633	inCount:83	outCount:93	links:	url:http://en.wikipedia.org/wiki/İşbank_Museum	name:İşbank Museum	normalName:isbank-museum	normalWikiTitle:isbank-museum	predictedType:UNK	
+ENTITY	text:Cukurova	normalName:cukurova	predictedType:UNK	q:true	qid:Q98	docId:98	origText:Cukurova	url:NIL
+CANDIDATE	id:29454056	inCount:2	outCount:9	links:3391396	url:http://en.wikipedia.org/wiki/Çukurova_(construction_firm)	name:Çukurova	normalName:cukurova	normalWikiTitle:cukurova-construction-firm	predictedType:UNK	
+CANDIDATE	id:28072015	inCount:24	outCount:119	links:498827;4634448;29992	url:http://en.wikipedia.org/wiki/Çukurova,_Adana	name:Çukurova, Adana	normalName:cukurova-adana	normalWikiTitle:cukurova-adana	predictedType:UNK	
+CANDIDATE	id:4634448	inCount:333	outCount:154	links:3391396;1080251;28072015;29992	url:http://en.wikipedia.org/wiki/Çukurova	name:Çukurova	normalName:cukurova	normalWikiTitle:cukurova	predictedType:UNK	
+CANDIDATE	id:1080251	inCount:187	outCount:185	links:29992;699393;4634448	url:http://en.wikipedia.org/wiki/Çukurova_University	name:Çukurova University	normalName:cukurova-university	normalWikiTitle:cukurova-university	predictedType:UNK	

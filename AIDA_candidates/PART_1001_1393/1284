@@ -1,0 +1,13 @@
+ENTITY	text:TEMPE	normalName:tempe	predictedType:UNK	q:true	qid:Q1284	docId:1284	origText:TEMPE	url:http://en.wikipedia.org/wiki/Tempe,_Arizona
+CANDIDATE	id:106664	inCount:1992	outCount:255	links:106664;146698;21883824	url:http://en.wikipedia.org/wiki/Tempe,_Arizona	name:Tempe, Arizona	normalName:tempe-arizona	normalWikiTitle:tempe-arizona	predictedType:GPE	
+CANDIDATE	id:24007792	inCount:1	outCount:5	links:	url:http://en.wikipedia.org/wiki/Tempé_River	name:Tempé River	normalName:tempe-river	normalWikiTitle:tempe-river	predictedType:UNK	
+CANDIDATE	id:8174562	inCount:52	outCount:9	links:146698	url:http://en.wikipedia.org/wiki/Lake_Tempe	name:Lake Tempe	normalName:lake-tempe	normalWikiTitle:lake-tempe	predictedType:UNK	
+CANDIDATE	id:146698	inCount:2	outCount:6	links:8174562;293037;1585187;106664	url:http://en.wikipedia.org/wiki/Tempe	name:Tempe	normalName:tempe	normalWikiTitle:tempe	predictedType:UNK	
+CANDIDATE	id:1585187	inCount:73	outCount:58	links:146698	url:http://en.wikipedia.org/wiki/Tempe,_New_South_Wales	name:Tempe, New South Wales	normalName:tempe-new-south-wales	normalWikiTitle:tempe-new-south-wales	predictedType:UNK	
+CANDIDATE	id:40629225	inCount:0	outCount:34	links:	url:http://en.wikipedia.org/wiki/Tempe_(spray)	name:Tempe	normalName:tempe	normalWikiTitle:tempe-spray	predictedType:UNK	
+CANDIDATE	id:76293	inCount:1228	outCount:205	links:	url:http://en.wikipedia.org/wiki/Temperance_movement	name:Temperance movement	normalName:temperance-movement	normalWikiTitle:temperance-movement	predictedType:UNK	
+CANDIDATE	id:293037	inCount:476	outCount:446	links:146698	url:http://en.wikipedia.org/wiki/Tempeh	name:Tempeh	normalName:tempeh	normalWikiTitle:tempeh	predictedType:UNK	
+CANDIDATE	id:31511742	inCount:22	outCount:43	links:	url:http://en.wikipedia.org/wiki/Tempe_Church	name:Tempe Church	normalName:tempe-church	normalWikiTitle:tempe-church	predictedType:UNK	
+CANDIDATE	id:78547	inCount:132	outCount:102	links:	url:http://en.wikipedia.org/wiki/Temperate_grasslands,_savannas,_and_shrublands	name:Temperate grasslands, savannas, and shrublands	normalName:temperate-grasslands-savannas-and-shrublands	normalWikiTitle:temperate-grasslands-savannas-and-shrublands	predictedType:UNK	
+ENTITY	text:Ariz	normalName:ariz	predictedType:UNK	q:true	qid:Q1284	docId:1284	origText:Ariz	url:NIL
+CANDIDATE	id:21883824	inCount:15886	outCount:1100	links:106664;21883824	url:http://en.wikipedia.org/wiki/Arizona	name:Arizona	normalName:arizona	normalWikiTitle:arizona	predictedType:UNK	

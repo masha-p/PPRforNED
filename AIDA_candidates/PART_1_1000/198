@@ -1,0 +1,40 @@
+ENTITY	text:Lufthansa	normalName:lufthansa	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Lufthansa	url:http://en.wikipedia.org/wiki/Lufthansa
+CANDIDATE	id:97733	inCount:1158	outCount:569	links:10992;1289326;248285;1882131;11237007	url:http://en.wikipedia.org/wiki/Lufthansa	name:Lufthansa	normalName:lufthansa	normalWikiTitle:lufthansa	predictedType:ORG	
+CANDIDATE	id:1882131	inCount:14	outCount:6	links:10992;97733	url:http://en.wikipedia.org/wiki/Lufthansa_Systems	name:Lufthansa Systems	normalName:lufthansa-systems	normalWikiTitle:lufthansa-systems	predictedType:UNK	
+CANDIDATE	id:11237007	inCount:2	outCount:5	links:97733	url:http://en.wikipedia.org/wiki/Lufthansa_Center	name:Lufthansa Center	normalName:lufthansa-center	normalWikiTitle:lufthansa-center	predictedType:UNK	
+ENTITY	text:FRANKFURT	normalName:frankfurt	predictedType:UNK	q:true	qid:Q198	docId:198	origText:FRANKFURT	url:http://en.wikipedia.org/wiki/Frankfurt
+CANDIDATE	id:10992	inCount:6502	outCount:1040	links:1882131;229236;98577;4605151;97733;862147;1695702;1289326;248285	url:http://en.wikipedia.org/wiki/Frankfurt	name:Frankfurt	normalName:frankfurt	normalWikiTitle:frankfurt	predictedType:GPE	
+CANDIDATE	id:539067	inCount:8	outCount:2	links:	url:http://en.wikipedia.org/wiki/University_of_Frankfurt	name:University of Frankfurt	normalName:university-of-frankfurt	normalWikiTitle:university-of-frankfurt	predictedType:ORG	
+CANDIDATE	id:34345845	inCount:3	outCount:8	links:	url:http://en.wikipedia.org/wiki/Frankfurt_(icebreaker)	name:Frankfurt	normalName:frankfurt	normalWikiTitle:frankfurt-icebreaker	predictedType:PER	
+CANDIDATE	id:229236	inCount:869	outCount:443	links:10992;229236	url:http://en.wikipedia.org/wiki/Frankfurt_School	name:Frankfurt School	normalName:frankfurt-school	normalWikiTitle:frankfurt-school	predictedType:UNK	
+CANDIDATE	id:98577	inCount:479	outCount:174	links:10992;25646127	url:http://en.wikipedia.org/wiki/Frankfurt_(Oder)	name:Frankfurt	normalName:frankfurt	normalWikiTitle:frankfurt-oder	predictedType:GPE	
+CANDIDATE	id:248285	inCount:872	outCount:583	links:10992;1289326;97733	url:http://en.wikipedia.org/wiki/Frankfurt_Airport	name:Frankfurt Airport	normalName:frankfurt-airport	normalWikiTitle:frankfurt-airport	predictedType:UNK	
+CANDIDATE	id:25646127	inCount:22	outCount:25	links:98577	url:http://en.wikipedia.org/wiki/Frankfurt_(Bezirk)	name:Frankfurt	normalName:frankfurt	normalWikiTitle:frankfurt-bezirk	predictedType:ORG	
+CANDIDATE	id:13659323	inCount:7	outCount:6	links:	url:http://en.wikipedia.org/wiki/Frankfurt_Group	name:Frankfurt Group	normalName:frankfurt-group	normalWikiTitle:frankfurt-group	predictedType:UNK	
+CANDIDATE	id:4605151	inCount:199	outCount:160	links:10992	url:http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof	name:Frankfurt (Main) Hauptbahnhof	normalName:frankfurt-main-hauptbahnhof	normalWikiTitle:frankfurt-main-hauptbahnhof	predictedType:UNK	
+CANDIDATE	id:862147	inCount:1853	outCount:615	links:10992;862147	url:http://en.wikipedia.org/wiki/Eintracht_Frankfurt	name:Eintracht Frankfurt	normalName:eintracht-frankfurt	normalWikiTitle:eintracht-frankfurt	predictedType:UNK	
+CANDIDATE	id:1695702	inCount:388	outCount:310	links:10992	url:http://en.wikipedia.org/wiki/Frankfurt_Motor_Show	name:Frankfurt Motor Show	normalName:frankfurt-motor-show	normalWikiTitle:frankfurt-motor-show	predictedType:UNK	
+ENTITY	text:Lufthansa Cargo AG	normalName:lufthansa-cargo-ag	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Lufthansa Cargo AG	url:NIL
+CANDIDATE	id:1289326	inCount:454	outCount:333	links:10992;97733;248285	url:http://en.wikipedia.org/wiki/Lufthansa_Cargo	name:Lufthansa Cargo	normalName:lufthansa-cargo	normalWikiTitle:lufthansa-cargo	predictedType:ORG	
+ENTITY	text:Deutsche Lufthansa AG	normalName:deutsche-lufthansa-ag	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Deutsche Lufthansa AG	url:http://en.wikipedia.org/wiki/Lufthansa
+CANDIDATE	id:97733	inCount:1158	outCount:569	links:10992;1289326;248285;1882131;11237007	url:http://en.wikipedia.org/wiki/Lufthansa	name:Lufthansa	normalName:lufthansa	normalWikiTitle:lufthansa	predictedType:ORG	
+ENTITY	text:Dm	normalName:dm	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Dm	url:NIL
+CANDIDATE	id:1111911	inCount:278	outCount:314	links:	url:http://en.wikipedia.org/wiki/.dm	name:.dm	normalName:dm	normalWikiTitle:dm	predictedType:UNK	
+CANDIDATE	id:8638747	inCount:2	outCount:5	links:	url:http://en.wikipedia.org/wiki/DM_(windowing_system)	name:DM	normalName:dm	normalWikiTitle:dm-windowing-system	predictedType:UNK	
+CANDIDATE	id:42189977	inCount:8	outCount:24	links:	url:http://en.wikipedia.org/wiki/DMK_(band)	name:DMK	normalName:dmk	normalWikiTitle:dmk-band	predictedType:UNK	
+ENTITY	text:Dm	normalName:dm	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Dm	url:NIL
+CANDIDATE	id:1111911	inCount:278	outCount:314	links:	url:http://en.wikipedia.org/wiki/.dm	name:.dm	normalName:dm	normalWikiTitle:dm	predictedType:UNK	
+CANDIDATE	id:8638747	inCount:2	outCount:5	links:	url:http://en.wikipedia.org/wiki/DM_(windowing_system)	name:DM	normalName:dm	normalWikiTitle:dm-windowing-system	predictedType:UNK	
+CANDIDATE	id:42189977	inCount:8	outCount:24	links:	url:http://en.wikipedia.org/wiki/DMK_(band)	name:DMK	normalName:dmk	normalWikiTitle:dmk-band	predictedType:UNK	
+ENTITY	text:Dm	normalName:dm	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Dm	url:NIL
+CANDIDATE	id:1111911	inCount:278	outCount:314	links:	url:http://en.wikipedia.org/wiki/.dm	name:.dm	normalName:dm	normalWikiTitle:dm	predictedType:UNK	
+CANDIDATE	id:8638747	inCount:2	outCount:5	links:	url:http://en.wikipedia.org/wiki/DM_(windowing_system)	name:DM	normalName:dm	normalWikiTitle:dm-windowing-system	predictedType:UNK	
+CANDIDATE	id:42189977	inCount:8	outCount:24	links:	url:http://en.wikipedia.org/wiki/DMK_(band)	name:DMK	normalName:dmk	normalWikiTitle:dmk-band	predictedType:UNK	
+ENTITY	text:Dm	normalName:dm	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Dm	url:NIL
+CANDIDATE	id:1111911	inCount:278	outCount:314	links:	url:http://en.wikipedia.org/wiki/.dm	name:.dm	normalName:dm	normalWikiTitle:dm	predictedType:UNK	
+CANDIDATE	id:8638747	inCount:2	outCount:5	links:	url:http://en.wikipedia.org/wiki/DM_(windowing_system)	name:DM	normalName:dm	normalWikiTitle:dm-windowing-system	predictedType:UNK	
+CANDIDATE	id:42189977	inCount:8	outCount:24	links:	url:http://en.wikipedia.org/wiki/DMK_(band)	name:DMK	normalName:dmk	normalWikiTitle:dmk-band	predictedType:UNK	
+ENTITY	text:Dm	normalName:dm	predictedType:UNK	q:true	qid:Q198	docId:198	origText:Dm	url:NIL
+CANDIDATE	id:1111911	inCount:278	outCount:314	links:	url:http://en.wikipedia.org/wiki/.dm	name:.dm	normalName:dm	normalWikiTitle:dm	predictedType:UNK	
+CANDIDATE	id:8638747	inCount:2	outCount:5	links:	url:http://en.wikipedia.org/wiki/DM_(windowing_system)	name:DM	normalName:dm	normalWikiTitle:dm-windowing-system	predictedType:UNK	
+CANDIDATE	id:42189977	inCount:8	outCount:24	links:	url:http://en.wikipedia.org/wiki/DMK_(band)	name:DMK	normalName:dmk	normalWikiTitle:dmk-band	predictedType:UNK	

@@ -1,0 +1,12 @@
+ENTITY	text:CALGARY	normalName:calgary	predictedType:UNK	q:true	qid:Q169	docId:169	origText:CALGARY	url:http://en.wikipedia.org/wiki/Calgary
+CANDIDATE	id:15895358	inCount:8050	outCount:978	links:1725874;1058251;15895358;791923;1361044;7969847;293781	url:http://en.wikipedia.org/wiki/Calgary	name:Calgary	normalName:calgary	normalWikiTitle:calgary	predictedType:GPE	
+CANDIDATE	id:27616499	inCount:3	outCount:10	links:1058251	url:http://en.wikipedia.org/wiki/Calgary_Castle	name:Calgary Castle	normalName:calgary-castle	normalWikiTitle:calgary-castle	predictedType:UNK	
+CANDIDATE	id:1361044	inCount:251	outCount:157	links:293781;1058251;15895358	url:http://en.wikipedia.org/wiki/Calgary_Region	name:Calgary Region	normalName:calgary-region	normalWikiTitle:calgary-region	predictedType:GPE	
+CANDIDATE	id:293781	inCount:1951	outCount:252	links:1361044;15895358;791923	url:http://en.wikipedia.org/wiki/Calgary_International_Airport	name:Calgary International Airport	normalName:calgary-international-airport	normalWikiTitle:calgary-international-airport	predictedType:UNK	
+CANDIDATE	id:16235915	inCount:5	outCount:5	links:	url:http://en.wikipedia.org/wiki/Calgary_Foundation	name:Calgary Foundation	normalName:calgary-foundation	normalWikiTitle:calgary-foundation	predictedType:ORG	
+CANDIDATE	id:791923	inCount:144	outCount:81	links:7969847;15895358;293781	url:http://en.wikipedia.org/wiki/Calgary_Tower	name:Calgary Tower	normalName:calgary-tower	normalWikiTitle:calgary-tower	predictedType:UNK	
+CANDIDATE	id:1787994	inCount:19	outCount:19	links:6313152	url:http://en.wikipedia.org/wiki/Calgary_(electoral_district)	name:Calgary	normalName:calgary	normalWikiTitle:calgary-electoral-district	predictedType:UNK	
+CANDIDATE	id:1725874	inCount:40	outCount:69	links:15895358	url:http://en.wikipedia.org/wiki/Calgary_School	name:Calgary School	normalName:calgary-school	normalWikiTitle:calgary-school	predictedType:UNK	
+CANDIDATE	id:7969847	inCount:37	outCount:111	links:15895358;791923	url:http://en.wikipedia.org/wiki/Calgary_Opera	name:Calgary Opera	normalName:calgary-opera	normalWikiTitle:calgary-opera	predictedType:GPE	
+CANDIDATE	id:6313152	inCount:14	outCount:38	links:1787994	url:http://en.wikipedia.org/wiki/Calgary_(N.W.T._electoral_district)	name:Calgary	normalName:calgary	normalWikiTitle:calgary-nwt-electoral-district	predictedType:UNK	
+CANDIDATE	id:1058251	inCount:57	outCount:88	links:1361044;15895358;27616499	url:http://en.wikipedia.org/wiki/Calgary,_Mull	name:Calgary, Mull	normalName:calgary-mull	normalWikiTitle:calgary-mull	predictedType:GPE	

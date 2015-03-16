@@ -1,0 +1,68 @@
+ENTITY	text:Guinea	normalName:guinea	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinea	url:NIL
+CANDIDATE	id:27452408	inCount:141	outCount:153	links:	url:http://en.wikipedia.org/wiki/Guinea,_Virginia	name:Guinea, Virginia	normalName:guinea-virginia	normalWikiTitle:guinea-virginia	predictedType:GPE	
+CANDIDATE	id:225453	inCount:990	outCount:97	links:1023026	url:http://en.wikipedia.org/wiki/Guinea_(British_coin)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-british-coin	predictedType:UNK	
+CANDIDATE	id:32851811	inCount:1	outCount:7	links:32851811	url:http://en.wikipedia.org/wiki/Guinea,_Álava	name:Guinea, Álava	normalName:guinea-alava	normalWikiTitle:guinea-alava	predictedType:UNK	
+CANDIDATE	id:256059	inCount:103	outCount:29	links:	url:http://en.wikipedia.org/wiki/Guineafowl	name:Guineafowl	normalName:guineafowl	normalWikiTitle:guineafowl	predictedType:ORG	
+CANDIDATE	id:1023026	inCount:78	outCount:127	links:67393;12176;12186;225453	url:http://en.wikipedia.org/wiki/Guinea_(region)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-region	predictedType:GPE	
+CANDIDATE	id:11955248	inCount:53	outCount:72	links:12176	url:http://en.wikipedia.org/wiki/Guinea_Company_(London)	name:Guinea Company	normalName:guinea-company	normalWikiTitle:guinea-company-london	predictedType:UNK	
+CANDIDATE	id:21950293	inCount:2	outCount:6	links:	url:http://en.wikipedia.org/wiki/Guinea,_Nova_Scotia	name:Guinea, Nova Scotia	normalName:guinea-nova-scotia	normalWikiTitle:guinea-nova-scotia	predictedType:GPE	
+CANDIDATE	id:12186	inCount:3412	outCount:585	links:392412;12176;12178;12186;57744;56638;12078059;67393;1023026	url:http://en.wikipedia.org/wiki/Guinea-Bissau	name:Guinea-Bissau	normalName:guinea-bissau	normalWikiTitle:guinea-bissau	predictedType:GPE	
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12178	inCount:116	outCount:99	links:12176;12186;5565	url:http://en.wikipedia.org/wiki/Geography_of_Guinea	name:Geography of Guinea	normalName:geography-of-guinea	normalWikiTitle:geography-of-guinea	predictedType:ORG	
+ENTITY	text:CONAKRY	normalName:conakry	predictedType:UNK	q:true	qid:Q711	docId:711	origText:CONAKRY	url:http://en.wikipedia.org/wiki/Conakry
+CANDIDATE	id:56638	inCount:762	outCount:228	links:392412;3770586;4590205;391481;12176;12186;1626873	url:http://en.wikipedia.org/wiki/Conakry	name:Conakry	normalName:conakry	normalWikiTitle:conakry	predictedType:GPE	
+CANDIDATE	id:4590205	inCount:70	outCount:42	links:12176;56638	url:http://en.wikipedia.org/wiki/Conakry_International_Airport	name:Conakry International Airport	normalName:conakry-international-airport	normalWikiTitle:conakry-international-airport	predictedType:UNK	
+ENTITY	text:Guinea	normalName:guinea	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinea	url:NIL
+CANDIDATE	id:27452408	inCount:141	outCount:153	links:	url:http://en.wikipedia.org/wiki/Guinea,_Virginia	name:Guinea, Virginia	normalName:guinea-virginia	normalWikiTitle:guinea-virginia	predictedType:GPE	
+CANDIDATE	id:225453	inCount:990	outCount:97	links:1023026	url:http://en.wikipedia.org/wiki/Guinea_(British_coin)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-british-coin	predictedType:UNK	
+CANDIDATE	id:32851811	inCount:1	outCount:7	links:32851811	url:http://en.wikipedia.org/wiki/Guinea,_Álava	name:Guinea, Álava	normalName:guinea-alava	normalWikiTitle:guinea-alava	predictedType:UNK	
+CANDIDATE	id:256059	inCount:103	outCount:29	links:	url:http://en.wikipedia.org/wiki/Guineafowl	name:Guineafowl	normalName:guineafowl	normalWikiTitle:guineafowl	predictedType:ORG	
+CANDIDATE	id:1023026	inCount:78	outCount:127	links:67393;12176;12186;225453	url:http://en.wikipedia.org/wiki/Guinea_(region)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-region	predictedType:GPE	
+CANDIDATE	id:11955248	inCount:53	outCount:72	links:12176	url:http://en.wikipedia.org/wiki/Guinea_Company_(London)	name:Guinea Company	normalName:guinea-company	normalWikiTitle:guinea-company-london	predictedType:UNK	
+CANDIDATE	id:21950293	inCount:2	outCount:6	links:	url:http://en.wikipedia.org/wiki/Guinea,_Nova_Scotia	name:Guinea, Nova Scotia	normalName:guinea-nova-scotia	normalWikiTitle:guinea-nova-scotia	predictedType:GPE	
+CANDIDATE	id:12186	inCount:3412	outCount:585	links:392412;12176;12178;12186;57744;56638;12078059;67393;1023026	url:http://en.wikipedia.org/wiki/Guinea-Bissau	name:Guinea-Bissau	normalName:guinea-bissau	normalWikiTitle:guinea-bissau	predictedType:GPE	
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12178	inCount:116	outCount:99	links:12176;12186;5565	url:http://en.wikipedia.org/wiki/Geography_of_Guinea	name:Geography of Guinea	normalName:geography-of-guinea	normalWikiTitle:geography-of-guinea	predictedType:ORG	
+ENTITY	text:Sidia Toure	normalName:sidia-toure	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Sidia Toure	url:http://en.wikipedia.org/wiki/Sidya_Touré
+CANDIDATE	id:3770586	inCount:29	outCount:23	links:391481;56638;392412	url:http://en.wikipedia.org/wiki/Sidya_Touré	name:Sidya Touré	normalName:sidya-toure	normalWikiTitle:sidya-toure	predictedType:PER	
+ENTITY	text:Guinean	normalName:guinean	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinean	url:NIL
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12078059	inCount:52	outCount:80	links:12186	url:http://en.wikipedia.org/wiki/Guinean_Portuguese	name:Guinean Portuguese	normalName:guinean-portuguese	normalWikiTitle:guinean-portuguese	predictedType:UNK	
+ENTITY	text:Guinean	normalName:guinean	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinean	url:NIL
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12078059	inCount:52	outCount:80	links:12186	url:http://en.wikipedia.org/wiki/Guinean_Portuguese	name:Guinean Portuguese	normalName:guinean-portuguese	normalWikiTitle:guinean-portuguese	predictedType:UNK	
+ENTITY	text:Toure	normalName:toure	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Toure	url:NIL
+CANDIDATE	id:4132947	inCount:130	outCount:124	links:	url:http://en.wikipedia.org/wiki/Touré	name:Touré	normalName:toure	normalWikiTitle:toure	predictedType:UNK	
+CANDIDATE	id:56483	inCount:560	outCount:191	links:56483	url:http://en.wikipedia.org/wiki/Tourette_syndrome	name:Tourette syndrome	normalName:tourette-syndrome	normalWikiTitle:tourette-syndrome	predictedType:UNK	
+CANDIDATE	id:1024827	inCount:276	outCount:219	links:57744;1039856;2538899	url:http://en.wikipedia.org/wiki/Kolo_Touré	name:Kolo Touré	normalName:kolo-toure	normalWikiTitle:kolo-toure	predictedType:PER	
+CANDIDATE	id:2538899	inCount:355	outCount:328	links:57744;1024827;1039856	url:http://en.wikipedia.org/wiki/Yaya_Touré	name:Yaya Touré	normalName:yaya-toure	normalWikiTitle:yaya-toure	predictedType:PER	
+CANDIDATE	id:391481	inCount:197	outCount:148	links:392412;3770586;391481;12176;56638	url:http://en.wikipedia.org/wiki/Ahmed_Sékou_Touré	name:Ahmed Sékou Touré	normalName:ahmed-sekou-toure	normalWikiTitle:ahmed-sekou-toure	predictedType:PER	
+ENTITY	text:Guinea	normalName:guinea	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinea	url:NIL
+CANDIDATE	id:27452408	inCount:141	outCount:153	links:	url:http://en.wikipedia.org/wiki/Guinea,_Virginia	name:Guinea, Virginia	normalName:guinea-virginia	normalWikiTitle:guinea-virginia	predictedType:GPE	
+CANDIDATE	id:225453	inCount:990	outCount:97	links:1023026	url:http://en.wikipedia.org/wiki/Guinea_(British_coin)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-british-coin	predictedType:UNK	
+CANDIDATE	id:32851811	inCount:1	outCount:7	links:32851811	url:http://en.wikipedia.org/wiki/Guinea,_Álava	name:Guinea, Álava	normalName:guinea-alava	normalWikiTitle:guinea-alava	predictedType:UNK	
+CANDIDATE	id:256059	inCount:103	outCount:29	links:	url:http://en.wikipedia.org/wiki/Guineafowl	name:Guineafowl	normalName:guineafowl	normalWikiTitle:guineafowl	predictedType:ORG	
+CANDIDATE	id:1023026	inCount:78	outCount:127	links:67393;12176;12186;225453	url:http://en.wikipedia.org/wiki/Guinea_(region)	name:Guinea	normalName:guinea	normalWikiTitle:guinea-region	predictedType:GPE	
+CANDIDATE	id:11955248	inCount:53	outCount:72	links:12176	url:http://en.wikipedia.org/wiki/Guinea_Company_(London)	name:Guinea Company	normalName:guinea-company	normalWikiTitle:guinea-company-london	predictedType:UNK	
+CANDIDATE	id:21950293	inCount:2	outCount:6	links:	url:http://en.wikipedia.org/wiki/Guinea,_Nova_Scotia	name:Guinea, Nova Scotia	normalName:guinea-nova-scotia	normalWikiTitle:guinea-nova-scotia	predictedType:GPE	
+CANDIDATE	id:12186	inCount:3412	outCount:585	links:392412;12176;12178;12186;57744;56638;12078059;67393;1023026	url:http://en.wikipedia.org/wiki/Guinea-Bissau	name:Guinea-Bissau	normalName:guinea-bissau	normalWikiTitle:guinea-bissau	predictedType:GPE	
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12178	inCount:116	outCount:99	links:12176;12186;5565	url:http://en.wikipedia.org/wiki/Geography_of_Guinea	name:Geography of Guinea	normalName:geography-of-guinea	normalWikiTitle:geography-of-guinea	predictedType:ORG	
+ENTITY	text:West African	normalName:west-african	predictedType:UNK	q:true	qid:Q711	docId:711	origText:West African	url:NIL
+CANDIDATE	id:67393	inCount:2987	outCount:278	links:12176;12186;57744;1626873;5565;67393;1023026;1039856	url:http://en.wikipedia.org/wiki/West_Africa	name:West Africa	normalName:west-africa	normalWikiTitle:west-africa	predictedType:ORG	
+CANDIDATE	id:1626873	inCount:7	outCount:21	links:56638;67393	url:http://en.wikipedia.org/wiki/West_African_Airlines	name:West African Airlines	normalName:west-african-airlines	normalWikiTitle:west-african-airlines	predictedType:ORG	
+ENTITY	text:Lansana Conte	normalName:lansana-conte	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Lansana Conte	url:http://en.wikipedia.org/wiki/Lansana_Conté
+CANDIDATE	id:392412	inCount:123	outCount:60	links:391481;12176;12186;56638;3770586	url:http://en.wikipedia.org/wiki/Lansana_Conté	name:Lansana Conté	normalName:lansana-conte	normalWikiTitle:lansana-conte	predictedType:PER	
+ENTITY	text:Toure	normalName:toure	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Toure	url:NIL
+CANDIDATE	id:4132947	inCount:130	outCount:124	links:	url:http://en.wikipedia.org/wiki/Touré	name:Touré	normalName:toure	normalWikiTitle:toure	predictedType:UNK	
+CANDIDATE	id:56483	inCount:560	outCount:191	links:56483	url:http://en.wikipedia.org/wiki/Tourette_syndrome	name:Tourette syndrome	normalName:tourette-syndrome	normalWikiTitle:tourette-syndrome	predictedType:UNK	
+CANDIDATE	id:1024827	inCount:276	outCount:219	links:57744;1039856;2538899	url:http://en.wikipedia.org/wiki/Kolo_Touré	name:Kolo Touré	normalName:kolo-toure	normalWikiTitle:kolo-toure	predictedType:PER	
+CANDIDATE	id:2538899	inCount:355	outCount:328	links:57744;1024827;1039856	url:http://en.wikipedia.org/wiki/Yaya_Touré	name:Yaya Touré	normalName:yaya-toure	normalWikiTitle:yaya-toure	predictedType:PER	
+CANDIDATE	id:391481	inCount:197	outCount:148	links:392412;3770586;391481;12176;56638	url:http://en.wikipedia.org/wiki/Ahmed_Sékou_Touré	name:Ahmed Sékou Touré	normalName:ahmed-sekou-toure	normalWikiTitle:ahmed-sekou-toure	predictedType:PER	
+ENTITY	text:Ivory Coast	normalName:ivory-coast	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Ivory Coast	url:http://en.wikipedia.org/wiki/Ivory_Coast
+CANDIDATE	id:57744	inCount:8643	outCount:502	links:1024827;5565;67393;2538899;12176;12186;57744;1039856	url:http://en.wikipedia.org/wiki/Ivory_Coast	name:Ivory Coast	normalName:ivory-coast	normalWikiTitle:ivory-coast	predictedType:GPE	
+CANDIDATE	id:5565	inCount:96	outCount:190	links:57744;5565;67393;12176;12178	url:http://en.wikipedia.org/wiki/Geography_of_Ivory_Coast	name:Geography of Ivory Coast	normalName:geography-of-ivory-coast	normalWikiTitle:geography-of-ivory-coast	predictedType:UNK	
+CANDIDATE	id:1039856	inCount:808	outCount:421	links:2538899;67393;57744;1024827	url:http://en.wikipedia.org/wiki/Ivory_Coast_national_football_team	name:Ivory Coast national football team	normalName:ivory-coast-national-football-team	normalWikiTitle:ivory-coast-national-football-team	predictedType:UNK	
+ENTITY	text:Guinean	normalName:guinean	predictedType:UNK	q:true	qid:Q711	docId:711	origText:Guinean	url:NIL
+CANDIDATE	id:12176	inCount:6565	outCount:471	links:56638;5565;67393;4590205;392412;391481;12176;12178;12186;11955248;57744;1023026	url:http://en.wikipedia.org/wiki/Guinea	name:Guinea	normalName:guinea	normalWikiTitle:guinea	predictedType:GPE	
+CANDIDATE	id:12078059	inCount:52	outCount:80	links:12186	url:http://en.wikipedia.org/wiki/Guinean_Portuguese	name:Guinean Portuguese	normalName:guinean-portuguese	normalWikiTitle:guinean-portuguese	predictedType:UNK	

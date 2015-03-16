@@ -1,0 +1,43 @@
+ENTITY	text:Heidrun	normalName:heidrun	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Heidrun	url:http://en.wikipedia.org/wiki/Heidrun_oil_field
+CANDIDATE	id:2594976	inCount:40	outCount:48	links:11866976;87438	url:http://en.wikipedia.org/wiki/Heidrun_oil_field	name:Heidrun oil field	normalName:heidrun-oil-field	normalWikiTitle:heidrun-oil-field	predictedType:UNK	
+CANDIDATE	id:87438	inCount:8	outCount:21	links:2594976	url:http://en.wikipedia.org/wiki/Heiðrún	name:Heiðrún	normalName:heidrun	normalWikiTitle:heidrun	predictedType:UNK	
+ENTITY	text:Statoil	normalName:statoil	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Statoil	url:http://en.wikipedia.org/wiki/Statoil
+CANDIDATE	id:11866976	inCount:629	outCount:364	links:2594976;22309	url:http://en.wikipedia.org/wiki/Statoil	name:Statoil	normalName:statoil	normalWikiTitle:statoil	predictedType:UNK	
+ENTITY	text:OSLO	normalName:oslo	predictedType:UNK	q:true	qid:Q26	docId:26	origText:OSLO	url:http://en.wikipedia.org/wiki/Oslo
+CANDIDATE	id:22309	inCount:12573	outCount:884	links:8564656;3818308;179081;11866976;36806601;22309;34444451;31800	url:http://en.wikipedia.org/wiki/Oslo	name:Oslo	normalName:oslo	normalWikiTitle:oslo	predictedType:GPE	
+CANDIDATE	id:31800	inCount:2175	outCount:196	links:22309;31800	url:http://en.wikipedia.org/wiki/University_of_Oslo	name:University of Oslo	normalName:university-of-oslo	normalWikiTitle:university-of-oslo	predictedType:ORG	
+CANDIDATE	id:179081	inCount:421	outCount:414	links:3818308;22309	url:http://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen	name:Oslo Airport, Gardermoen	normalName:oslo-airport-gardermoen	normalWikiTitle:oslo-airport-gardermoen	predictedType:UNK	
+CANDIDATE	id:34444451	inCount:15	outCount:49	links:22309	url:http://en.wikipedia.org/wiki/Oslo_IL	name:Oslo IL	normalName:oslo-il	normalWikiTitle:oslo-il	predictedType:UNK	
+CANDIDATE	id:16071498	inCount:25	outCount:30	links:	url:http://en.wikipedia.org/wiki/Oslo,_Florida	name:Oslo, Florida	normalName:oslo-florida	normalWikiTitle:oslo-florida	predictedType:GPE	
+CANDIDATE	id:31835516	inCount:22	outCount:16	links:	url:http://en.wikipedia.org/wiki/Oslo,_August_31st	name:Oslo, August 31st	normalName:oslo-august-31st	normalWikiTitle:oslo-august-31st	predictedType:UNK	
+CANDIDATE	id:3818308	inCount:195	outCount:287	links:22309;179081	url:http://en.wikipedia.org/wiki/Oslo_Airport,_Fornebu	name:Oslo Airport, Fornebu	normalName:oslo-airport-fornebu	normalWikiTitle:oslo-airport-fornebu	predictedType:UNK	
+CANDIDATE	id:36806601	inCount:687	outCount:274	links:22309	url:http://en.wikipedia.org/wiki/Oslo_Accords	name:Oslo Accords	normalName:oslo-accords	normalWikiTitle:oslo-accords	predictedType:UNK	
+CANDIDATE	id:42164797	inCount:1	outCount:9	links:	url:http://en.wikipedia.org/wiki/Oslo_(Hackney)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-hackney	predictedType:UNK	
+CANDIDATE	id:120699	inCount:72	outCount:136	links:	url:http://en.wikipedia.org/wiki/Oslo,_Minnesota	name:Oslo, Minnesota	normalName:oslo-minnesota	normalWikiTitle:oslo-minnesota	predictedType:GPE	
+CANDIDATE	id:12654410	inCount:0	outCount:26	links:	url:http://en.wikipedia.org/wiki/Oslo_Center	name:Oslo Center	normalName:oslo-center	normalWikiTitle:oslo-center	predictedType:ORG	
+CANDIDATE	id:8564656	inCount:8	outCount:4	links:22309	url:http://en.wikipedia.org/wiki/Oslo_City	name:Oslo City	normalName:oslo-city	normalWikiTitle:oslo-city	predictedType:UNK	
+CANDIDATE	id:10764982	inCount:8	outCount:14	links:	url:http://en.wikipedia.org/wiki/Oslo_(band)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-band	predictedType:UNK	
+CANDIDATE	id:16075494	inCount:3	outCount:26	links:16075494	url:http://en.wikipedia.org/wiki/Oslo_(Microsoft)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-microsoft	predictedType:UNK	
+ENTITY	text:Heidrun	normalName:heidrun	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Heidrun	url:http://en.wikipedia.org/wiki/Heidrun_oil_field
+CANDIDATE	id:2594976	inCount:40	outCount:48	links:11866976;87438	url:http://en.wikipedia.org/wiki/Heidrun_oil_field	name:Heidrun oil field	normalName:heidrun-oil-field	normalWikiTitle:heidrun-oil-field	predictedType:UNK	
+CANDIDATE	id:87438	inCount:8	outCount:21	links:2594976	url:http://en.wikipedia.org/wiki/Heiðrún	name:Heiðrún	normalName:heidrun	normalWikiTitle:heidrun	predictedType:UNK	
+ENTITY	text:Statoil	normalName:statoil	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Statoil	url:http://en.wikipedia.org/wiki/Statoil
+CANDIDATE	id:11866976	inCount:629	outCount:364	links:2594976;22309	url:http://en.wikipedia.org/wiki/Statoil	name:Statoil	normalName:statoil	normalWikiTitle:statoil	predictedType:UNK	
+ENTITY	text:Heidrun	normalName:heidrun	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Heidrun	url:http://en.wikipedia.org/wiki/Heidrun_oil_field
+CANDIDATE	id:2594976	inCount:40	outCount:48	links:11866976;87438	url:http://en.wikipedia.org/wiki/Heidrun_oil_field	name:Heidrun oil field	normalName:heidrun-oil-field	normalWikiTitle:heidrun-oil-field	predictedType:UNK	
+CANDIDATE	id:87438	inCount:8	outCount:21	links:2594976	url:http://en.wikipedia.org/wiki/Heiðrún	name:Heiðrún	normalName:heidrun	normalWikiTitle:heidrun	predictedType:UNK	
+ENTITY	text:Oslo	normalName:oslo	predictedType:UNK	q:true	qid:Q26	docId:26	origText:Oslo	url:http://en.wikipedia.org/wiki/Oslo
+CANDIDATE	id:22309	inCount:12573	outCount:884	links:8564656;3818308;179081;11866976;36806601;22309;34444451;31800	url:http://en.wikipedia.org/wiki/Oslo	name:Oslo	normalName:oslo	normalWikiTitle:oslo	predictedType:GPE	
+CANDIDATE	id:31800	inCount:2175	outCount:196	links:22309;31800	url:http://en.wikipedia.org/wiki/University_of_Oslo	name:University of Oslo	normalName:university-of-oslo	normalWikiTitle:university-of-oslo	predictedType:ORG	
+CANDIDATE	id:179081	inCount:421	outCount:414	links:3818308;22309	url:http://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen	name:Oslo Airport, Gardermoen	normalName:oslo-airport-gardermoen	normalWikiTitle:oslo-airport-gardermoen	predictedType:UNK	
+CANDIDATE	id:34444451	inCount:15	outCount:49	links:22309	url:http://en.wikipedia.org/wiki/Oslo_IL	name:Oslo IL	normalName:oslo-il	normalWikiTitle:oslo-il	predictedType:UNK	
+CANDIDATE	id:16071498	inCount:25	outCount:30	links:	url:http://en.wikipedia.org/wiki/Oslo,_Florida	name:Oslo, Florida	normalName:oslo-florida	normalWikiTitle:oslo-florida	predictedType:GPE	
+CANDIDATE	id:31835516	inCount:22	outCount:16	links:	url:http://en.wikipedia.org/wiki/Oslo,_August_31st	name:Oslo, August 31st	normalName:oslo-august-31st	normalWikiTitle:oslo-august-31st	predictedType:UNK	
+CANDIDATE	id:3818308	inCount:195	outCount:287	links:22309;179081	url:http://en.wikipedia.org/wiki/Oslo_Airport,_Fornebu	name:Oslo Airport, Fornebu	normalName:oslo-airport-fornebu	normalWikiTitle:oslo-airport-fornebu	predictedType:UNK	
+CANDIDATE	id:36806601	inCount:687	outCount:274	links:22309	url:http://en.wikipedia.org/wiki/Oslo_Accords	name:Oslo Accords	normalName:oslo-accords	normalWikiTitle:oslo-accords	predictedType:UNK	
+CANDIDATE	id:42164797	inCount:1	outCount:9	links:	url:http://en.wikipedia.org/wiki/Oslo_(Hackney)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-hackney	predictedType:UNK	
+CANDIDATE	id:120699	inCount:72	outCount:136	links:	url:http://en.wikipedia.org/wiki/Oslo,_Minnesota	name:Oslo, Minnesota	normalName:oslo-minnesota	normalWikiTitle:oslo-minnesota	predictedType:GPE	
+CANDIDATE	id:12654410	inCount:0	outCount:26	links:	url:http://en.wikipedia.org/wiki/Oslo_Center	name:Oslo Center	normalName:oslo-center	normalWikiTitle:oslo-center	predictedType:ORG	
+CANDIDATE	id:8564656	inCount:8	outCount:4	links:22309	url:http://en.wikipedia.org/wiki/Oslo_City	name:Oslo City	normalName:oslo-city	normalWikiTitle:oslo-city	predictedType:UNK	
+CANDIDATE	id:10764982	inCount:8	outCount:14	links:	url:http://en.wikipedia.org/wiki/Oslo_(band)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-band	predictedType:UNK	
+CANDIDATE	id:16075494	inCount:3	outCount:26	links:16075494	url:http://en.wikipedia.org/wiki/Oslo_(Microsoft)	name:Oslo	normalName:oslo	normalWikiTitle:oslo-microsoft	predictedType:UNK	

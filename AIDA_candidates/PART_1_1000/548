@@ -1,0 +1,51 @@
+ENTITY	text:CZECH	normalName:czech	predictedType:UNK	q:true	qid:Q548	docId:548	origText:CZECH	url:http://en.wikipedia.org/wiki/Czech_Republic
+CANDIDATE	id:5321	inCount:46127	outCount:800	links:5321;5322;12185856;6343;1810963;3861344;335703;23844;151873;34514507;15878109;9815359;1645968;130329;2332279;672020	url:http://en.wikipedia.org/wiki/Czech_Republic	name:Czech Republic	normalName:czech-republic	normalWikiTitle:czech-republic	predictedType:GPE	
+CANDIDATE	id:151873	inCount:2051	outCount:225	links:5321;5322;23844;6343	url:http://en.wikipedia.org/wiki/Czechs	name:Czechs	normalName:czechs	normalWikiTitle:czechs	predictedType:UNK	
+CANDIDATE	id:12185856	inCount:3	outCount:63	links:5321	url:http://en.wikipedia.org/wiki/Czech_International	name:Czech International	normalName:czech-international	normalWikiTitle:czech-international	predictedType:UNK	
+CANDIDATE	id:3861344	inCount:22	outCount:56	links:5321;5322	url:http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog	name:Czechoslovakian Wolfdog	normalName:czechoslovakian-wolfdog	normalWikiTitle:czechoslovakian-wolfdog	predictedType:UNK	
+CANDIDATE	id:1810963	inCount:476	outCount:232	links:23844;6343;5321;5322	url:http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic	name:Czechoslovak Socialist Republic	normalName:czechoslovak-socialist-republic	normalWikiTitle:czechoslovak-socialist-republic	predictedType:GPE	
+CANDIDATE	id:18972507	inCount:48	outCount:57	links:	url:http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship	name:Czech, Łódź Voivodeship	normalName:czech-lodz-voivodeship	normalWikiTitle:czech-lodz-voivodeship	predictedType:GPE	
+CANDIDATE	id:3349006	inCount:107	outCount:103	links:6343;3349006	url:http://en.wikipedia.org/wiki/Czech_Wikipedia	name:Czech Wikipedia	normalName:czech-wikipedia	normalWikiTitle:czech-wikipedia	predictedType:UNK	
+CANDIDATE	id:5322	inCount:17420	outCount:257	links:5321;6343;1810963;3861344;9815359;1645968;335703;23844;151873;672020	url:http://en.wikipedia.org/wiki/Czechoslovakia	name:Czechoslovakia	normalName:czechoslovakia	normalWikiTitle:czechoslovakia	predictedType:GPE	
+CANDIDATE	id:335703	inCount:476	outCount:361	links:23844;6343;5321;5322	url:http://en.wikipedia.org/wiki/Czech_Airlines	name:Czech Airlines	normalName:czech-airlines	normalWikiTitle:czech-airlines	predictedType:ORG	
+CANDIDATE	id:6343	inCount:4508	outCount:375	links:335703;15878109;2332279;3349006;1810963;151873;672020;5321;5322;23844;124190;6343;1003832	url:http://en.wikipedia.org/wiki/Czech_language	name:Czech language	normalName:czech-language	normalWikiTitle:czech-language	predictedType:UNK	
+ENTITY	text:PSE	normalName:pse	predictedType:UNK	q:true	qid:Q548	docId:548	origText:PSE	url:NIL
+CANDIDATE	id:45524	inCount:140	outCount:74	links:23210	url:http://en.wikipedia.org/wiki/Pseudorandom_number_generator	name:Pseudorandom number generator	normalName:pseudorandom-number-generator	normalWikiTitle:pseudorandom-number-generator	predictedType:UNK	
+CANDIDATE	id:23047	inCount:1602	outCount:707	links:175216;23047	url:http://en.wikipedia.org/wiki/Pseudoscience	name:Pseudoscience	normalName:pseudoscience	normalWikiTitle:pseudoscience	predictedType:UNK	
+CANDIDATE	id:175216	inCount:107	outCount:72	links:23047	url:http://en.wikipedia.org/wiki/Pseudohistory	name:Pseudohistory	normalName:pseudohistory	normalWikiTitle:pseudohistory	predictedType:UNK	
+CANDIDATE	id:3149636	inCount:11	outCount:11	links:	url:http://en.wikipedia.org/wiki/Pseudo-polynomial_time	name:Pseudo-polynomial time	normalName:pseudo-polynomial-time	normalWikiTitle:pseudo-polynomial-time	predictedType:PER	
+CANDIDATE	id:23210	inCount:33	outCount:40	links:45524	url:http://en.wikipedia.org/wiki/Pseudorandomness	name:Pseudorandomness	normalName:pseudorandomness	normalWikiTitle:pseudorandomness	predictedType:UNK	
+ENTITY	text:PRAGUE	normalName:prague	predictedType:UNK	q:true	qid:Q548	docId:548	origText:PRAGUE	url:http://en.wikipedia.org/wiki/Prague
+CANDIDATE	id:23844	inCount:14890	outCount:706	links:5321;5322;6343;1810963;1003832;9815359;1645968;335703;852005;23844;130329;151873;672020;34514507;124190	url:http://en.wikipedia.org/wiki/Prague	name:Prague	normalName:prague	normalWikiTitle:prague	predictedType:UNK	
+CANDIDATE	id:672020	inCount:259	outCount:77	links:23844;6343;5321;5322	url:http://en.wikipedia.org/wiki/Prague_Castle	name:Prague Castle	normalName:prague-castle	normalWikiTitle:prague-castle	predictedType:UNK	
+CANDIDATE	id:34514507	inCount:3	outCount:27	links:23844;5321	url:http://en.wikipedia.org/wiki/Prague_College	name:Prague College	normalName:prague-college	normalWikiTitle:prague-college	predictedType:ORG	
+CANDIDATE	id:31123051	inCount:7	outCount:11	links:	url:http://en.wikipedia.org/wiki/Prague_(band)	name:Prague	normalName:prague	normalWikiTitle:prague-band	predictedType:UNK	
+CANDIDATE	id:1003832	inCount:14	outCount:49	links:23844;1003832;6343	url:http://en.wikipedia.org/wiki/Prague_school	name:Prague school	normalName:prague-school	normalWikiTitle:prague-school	predictedType:UNK	
+CANDIDATE	id:12558198	inCount:98	outCount:114	links:	url:http://en.wikipedia.org/wiki/Prague_Hotel	name:Prague Hotel	normalName:prague-hotel	normalWikiTitle:prague-hotel	predictedType:UNK	
+CANDIDATE	id:852005	inCount:11	outCount:5	links:23844	url:http://en.wikipedia.org/wiki/University_of_Prague	name:University of Prague	normalName:university-of-prague	normalWikiTitle:university-of-prague	predictedType:ORG	
+CANDIDATE	id:124190	inCount:127	outCount:139	links:23844;6343	url:http://en.wikipedia.org/wiki/Prague,_Nebraska	name:Prague, Nebraska	normalName:prague-nebraska	normalWikiTitle:prague-nebraska	predictedType:GPE	
+CANDIDATE	id:130329	inCount:145	outCount:143	links:23844;5321	url:http://en.wikipedia.org/wiki/Prague,_Oklahoma	name:Prague, Oklahoma	normalName:prague-oklahoma	normalWikiTitle:prague-oklahoma	predictedType:GPE	
+ENTITY	text:Prague Stock Exchange	normalName:prague-stock-exchange	predictedType:UNK	q:true	qid:Q548	docId:548	origText:Prague Stock Exchange	url:http://en.wikipedia.org/wiki/Prague_Stock_Exchange
+CANDIDATE	id:2332279	inCount:64	outCount:61	links:5321;6343	url:http://en.wikipedia.org/wiki/Prague_Stock_Exchange	name:Prague Stock Exchange	normalName:prague-stock-exchange	normalWikiTitle:prague-stock-exchange	predictedType:UNK	
+ENTITY	text:AVIA	normalName:avia	predictedType:UNK	q:true	qid:Q548	docId:548	origText:AVIA	url:NIL
+CANDIDATE	id:5790756	inCount:4	outCount:12	links:	url:http://en.wikipedia.org/wiki/Avia_(river)	name:Avia	normalName:avia	normalWikiTitle:avia-river	predictedType:UNK	
+CANDIDATE	id:1645968	inCount:90	outCount:140	links:23844;5321;5322	url:http://en.wikipedia.org/wiki/Avia	name:Avia	normalName:avia	normalWikiTitle:avia	predictedType:UNK	
+CANDIDATE	id:13144327	inCount:318	outCount:312	links:	url:http://en.wikipedia.org/wiki/Avià	name:Avià	normalName:avia	normalWikiTitle:avia	predictedType:UNK	
+CANDIDATE	id:8567071	inCount:42	outCount:53	links:	url:http://en.wikipedia.org/wiki/RAF-Avia	name:RAF-Avia	normalName:raf-avia	normalWikiTitle:raf-avia	predictedType:ORG	
+CANDIDATE	id:5533609	inCount:8	outCount:15	links:	url:http://en.wikipedia.org/wiki/Avia_(shoes)	name:Avia	normalName:avia	normalWikiTitle:avia-shoes	predictedType:ORG	
+CANDIDATE	id:24729461	inCount:7	outCount:11	links:24729461	url:http://en.wikipedia.org/wiki/General_Avia	name:General Avia	normalName:general-avia	normalWikiTitle:general-avia	predictedType:UNK	
+CANDIDATE	id:6258202	inCount:22	outCount:35	links:	url:http://en.wikipedia.org/wiki/Avia,_Messenia	name:Avia, Messenia	normalName:avia-messenia	normalWikiTitle:avia-messenia	predictedType:UNK	
+CANDIDATE	id:35238267	inCount:3	outCount:6	links:	url:http://en.wikipedia.org/wiki/Avia_Airlines	name:Avia Airlines	normalName:avia-airlines	normalWikiTitle:avia-airlines	predictedType:ORG	
+ENTITY	text:KOMERCNI BANKA	normalName:komercni-banka	predictedType:UNK	q:true	qid:Q548	docId:548	origText:KOMERCNI BANKA	url:http://en.wikipedia.org/wiki/Komerční_banka
+CANDIDATE	id:9815359	inCount:22	outCount:29	links:23844;5321;5322	url:http://en.wikipedia.org/wiki/Komerční_banka	name:Komerční banka	normalName:komercni-banka	normalWikiTitle:komercni-banka	predictedType:UNK	
+ENTITY	text:OKD	normalName:okd	predictedType:UNK	q:true	qid:Q548	docId:548	origText:OKD	url:http://en.wikipedia.org/wiki/OKD
+CANDIDATE	id:15878109	inCount:4	outCount:19	links:5321;6343	url:http://en.wikipedia.org/wiki/OKD	name:OKD	normalName:okd	normalWikiTitle:okd	predictedType:UNK	
+ENTITY	text:RIF	normalName:rif	predictedType:UNK	q:true	qid:Q548	docId:548	origText:RIF	url:NIL
+CANDIDATE	id:1121972	inCount:260	outCount:135	links:30871508	url:http://en.wikipedia.org/wiki/Rif	name:Rif	normalName:rif	normalWikiTitle:rif	predictedType:UNK	
+CANDIDATE	id:497007	inCount:166	outCount:43	links:	url:http://en.wikipedia.org/wiki/Rift_valley	name:Rift valley	normalName:rift-valley	normalWikiTitle:rift-valley	predictedType:UNK	
+CANDIDATE	id:15193595	inCount:107	outCount:117	links:	url:http://en.wikipedia.org/wiki/Rif_(GTPase)	name:Rif	normalName:rif	normalWikiTitle:rif-gtpase	predictedType:UNK	
+CANDIDATE	id:40840191	inCount:4	outCount:6	links:	url:http://en.wikipedia.org/wiki//rif	name:/rif	normalName:-rif	normalWikiTitle:-rif	predictedType:UNK	
+CANDIDATE	id:30871508	inCount:12	outCount:16	links:1121972	url:http://en.wikipedia.org/wiki/Riff_languages	name:Riff languages	normalName:riff-languages	normalWikiTitle:riff-languages	predictedType:UNK	
+CANDIDATE	id:13755278	inCount:79	outCount:77	links:	url:http://en.wikipedia.org/wiki/Rif_(island)	name:Rif	normalName:rif	normalWikiTitle:rif-island	predictedType:GPE	
+ENTITY	text:TABAK	normalName:tabak	predictedType:UNK	q:true	qid:Q548	docId:548	origText:TABAK	url:NIL
+CANDIDATE	id:2765343	inCount:155	outCount:165	links:	url:http://en.wikipedia.org/wiki/Žan_Tabak	name:Žan Tabak	normalName:zan-tabak	normalWikiTitle:zan-tabak	predictedType:UNK	

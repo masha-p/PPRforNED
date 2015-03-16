@@ -1,0 +1,28 @@
+ENTITY	text:Kan	normalName:kan	predictedType:UNK	q:true	qid:Q735	docId:735	origText:Kan	url:NIL
+CANDIDATE	id:37604	inCount:4012	outCount:865	links:365175;475063;19245815;1695580	url:http://en.wikipedia.org/wiki/Kanji	name:Kanji	normalName:kanji	normalWikiTitle:kanji	predictedType:UNK	
+CANDIDATE	id:1695580	inCount:12	outCount:13	links:37604	url:http://en.wikipedia.org/wiki/Kancho	name:Kancho	normalName:kancho	normalWikiTitle:kancho	predictedType:UNK	
+CANDIDATE	id:1927593	inCount:11	outCount:14	links:	url:http://en.wikipedia.org/wiki/Kán	name:Kán	normalName:kan	normalWikiTitle:kan	predictedType:UNK	
+CANDIDATE	id:33619074	inCount:53	outCount:56	links:	url:http://en.wikipedia.org/wiki/Kan_District	name:Kan District	normalName:kan-district	normalWikiTitle:kan-district	predictedType:UNK	
+CANDIDATE	id:475063	inCount:300	outCount:72	links:475063;37604	url:http://en.wikipedia.org/wiki/Kangxi_Dictionary	name:Kangxi Dictionary	normalName:kangxi-dictionary	normalWikiTitle:kangxi-dictionary	predictedType:UNK	
+CANDIDATE	id:2187873	inCount:246	outCount:148	links:	url:http://en.wikipedia.org/wiki/Kannadasan	name:Kannadasan	normalName:kannadasan	normalWikiTitle:kannadasan	predictedType:PER	
+CANDIDATE	id:148551	inCount:426	outCount:153	links:148551;16716	url:http://en.wikipedia.org/wiki/Kansas_(band)	name:Kansas	normalName:kansas	normalWikiTitle:kansas-band	predictedType:UNK	
+CANDIDATE	id:29686918	inCount:285	outCount:258	links:	url:http://en.wikipedia.org/wiki/Kan_(tribe)	name:Kan	normalName:kan	normalWikiTitle:kan-tribe	predictedType:UNK	
+CANDIDATE	id:365175	inCount:316	outCount:204	links:37604	url:http://en.wikipedia.org/wiki/Naoto_Kan	name:Naoto Kan	normalName:naoto-kan	normalWikiTitle:naoto-kan	predictedType:PER	
+CANDIDATE	id:16626592	inCount:40	outCount:49	links:16622503	url:http://en.wikipedia.org/wiki/1963_Kanonloppet	name:1963 Kanonloppet	normalName:1963-kanonloppet	normalWikiTitle:1963-kanonloppet	predictedType:UNK	
+CANDIDATE	id:34290308	inCount:0	outCount:9	links:	url:http://en.wikipedia.org/wiki/K'an_II	name:K'an II	normalName:kan-ii	normalWikiTitle:kan-ii	predictedType:PER	
+CANDIDATE	id:16716	inCount:12973	outCount:973	links:16716;28340065;95704;148551	url:http://en.wikipedia.org/wiki/Kansas	name:Kansas	normalName:kansas	normalWikiTitle:kansas	predictedType:UNK	
+CANDIDATE	id:2733145	inCount:8	outCount:12	links:	url:http://en.wikipedia.org/wiki/Kano_model	name:Kano model	normalName:kano-model	normalWikiTitle:kano-model	predictedType:UNK	
+CANDIDATE	id:16605770	inCount:44	outCount:36	links:16622503	url:http://en.wikipedia.org/wiki/1961_Kanonloppet	name:1961 Kanonloppet	normalName:1961-kanonloppet	normalWikiTitle:1961-kanonloppet	predictedType:UNK	
+CANDIDATE	id:1844869	inCount:10	outCount:11	links:	url:http://en.wikipedia.org/wiki/Kan_River	name:Kan River	normalName:kan-river	normalWikiTitle:kan-river	predictedType:UNK	
+CANDIDATE	id:16622503	inCount:40	outCount:43	links:16605770;16626592	url:http://en.wikipedia.org/wiki/1962_Kanonloppet	name:1962 Kanonloppet	normalName:1962-kanonloppet	normalWikiTitle:1962-kanonloppet	predictedType:UNK	
+CANDIDATE	id:19245815	inCount:16	outCount:14	links:37604	url:http://en.wikipedia.org/wiki/Kan-on	name:Kan-on	normalName:kan-on	normalWikiTitle:kan-on	predictedType:UNK	
+CANDIDATE	id:37108461	inCount:8	outCount:40	links:	url:http://en.wikipedia.org/wiki/Kan_(musician)	name:Kan	normalName:kan	normalWikiTitle:kan-musician	predictedType:UNK	
+CANDIDATE	id:20605770	inCount:17	outCount:25	links:	url:http://en.wikipedia.org/wiki/Kanon_(singer)	name:Kanon	normalName:kanon	normalWikiTitle:kanon-singer	predictedType:UNK	
+CANDIDATE	id:523032	inCount:3748	outCount:624	links:523032	url:http://en.wikipedia.org/wiki/Kanye_West	name:Kanye West	normalName:kanye-west	normalWikiTitle:kanye-west	predictedType:UNK	
+ENTITY	text:JOHNSON CO	normalName:johnson-co	predictedType:UNK	q:true	qid:Q735	docId:735	origText:JOHNSON CO	url:NIL
+CANDIDATE	id:95704	inCount:881	outCount:338	links:95704;16716	url:http://en.wikipedia.org/wiki/Johnson_County,_Kansas	name:Johnson County, Kansas	normalName:johnson-county-kansas	normalWikiTitle:johnson-county-kansas	predictedType:GPE	
+ENTITY	text:KS	normalName:ks	predictedType:UNK	q:true	qid:Q735	docId:735	origText:KS	url:NIL
+CANDIDATE	id:28340065	inCount:116	outCount:117	links:16716	url:http://en.wikipedia.org/wiki/US-KS	name:US-KS	normalName:us-ks	normalWikiTitle:us-ks	predictedType:UNK	
+ENTITY	text:S&P	normalName:s-p	predictedType:UNK	q:true	qid:Q735	docId:735	origText:S&P	url:NIL
+CANDIDATE	id:170992	inCount:775	outCount:72	links:	url:http://en.wikipedia.org/wiki/S&P_500	name:S&P 500	normalName:s-p-500	normalWikiTitle:s-p-500	predictedType:UNK	
+CANDIDATE	id:1840566	inCount:39	outCount:188	links:	url:http://en.wikipedia.org/wiki/S&P/TSX_Composite_Index	name:S&P/TSX Composite Index	normalName:s-p-tsx-composite-index	normalWikiTitle:s-p-tsx-composite-index	predictedType:ORG	

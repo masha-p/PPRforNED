@@ -1,0 +1,10 @@
+ENTITY	text:UnitedFC	normalName:united-f-c	predictedType:UNK	q:true	qid:Q1	docId:0	origText:UnitedFC	url:http://en.wikipedia.org/wiki/Boston_United_F.C.
+CANDIDATE	id:1	inCount:5	outCount:5	links:3;5;6	url:http://en.wikipedia.org/wiki/Boston_United_F.C.	name:Boston_United_F.C.	normalName:boston-united-f-c	normalWikiTitle:boston-united-f-c	predictedType:UNK	
+CANDIDATE	id:2	inCount:5	outCount:5	links:4;5	url:http://en.wikipedia.org/wiki/Lincoln_United_F.C.	name:Lincoln_United_F.C.	normalName:lincoln-united-f-c	normalWikiTitle:lincoln-united-f-c	predictedType:UNK	
+ENTITY	text:Lincolnshire	normalName:lincolnshire	predictedType:UNK	q:true	qid:Q1	docId:0	origText:Lincolnshire	url:http://en.wikipedia.org/wiki/Boston_Lincolnshire
+CANDIDATE	id:3	inCount:5	outCount:5	links:1;6	url:http://en.wikipedia.org/wiki/Boston_Lincolnshire	name:Boston_Lincolnshire	normalName:boston-lincolnshire	normalWikiTitle:boston-lincolnshire	predictedType:GPE	
+CANDIDATE	id:4	inCount:5	outCount:5	links:2	url:http://en.wikipedia.org/wiki/Lincoln_Lincolnshire	name:Lincoln_Lincolnshire	normalName:lincoln-lincolnshire	normalWikiTitle:lincoln-lincolnshire	predictedType:UNK	
+CANDIDATE	id:5	inCount:5	outCount:5	links:1;2	url:http://en.wikipedia.org/wiki/Lincolnshire	name:Lincolnshire	normalName:lincolnshire	normalWikiTitle:lincolnshire	predictedType:UNK	
+ENTITY	text:Devon_White	normalName:devon-white	predictedType:UNK	q:true	qid:Q1	docId:1	origText:Devon_White	url:http://en.wikipedia.org/wiki/Devon_White_(footballer)
+CANDIDATE	id:6	inCount:5	outCount:5	links:1;3	url:http://en.wikipedia.org/wiki/Devon_White_(footballer)	name:Devon_White	normalName:devon-white	normalWikiTitle:devon-white	predictedType:GPE	
+CANDIDATE	id:7	inCount:5	outCount:5	links:	url:http://en.wikipedia.org/wiki/Devon_White_(baseballer)	name:Devon_White	normalName:devon-white	normalWikiTitle:devon-white	predictedType:GPE

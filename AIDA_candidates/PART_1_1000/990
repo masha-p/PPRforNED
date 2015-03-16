@@ -1,0 +1,30 @@
+ENTITY	text:Chad	normalName:chad	predictedType:UNK	q:true	qid:Q990	docId:990	origText:Chad	url:NIL
+CANDIDATE	id:31639859	inCount:3	outCount:96	links:1573293	url:http://en.wikipedia.org/wiki/Chad_Valley,_Birmingham	name:Chad Valley, Birmingham	normalName:chad-valley-birmingham	normalWikiTitle:chad-valley-birmingham	predictedType:GPE	
+CANDIDATE	id:15960292	inCount:101	outCount:111	links:5488;15960292;5330	url:http://en.wikipedia.org/wiki/Religion_in_Chad	name:Religion in Chad	normalName:religion-in-chad	normalWikiTitle:religion-in-chad	predictedType:UNK	
+CANDIDATE	id:59314	inCount:306	outCount:87	links:5488;16460678;5330	url:http://en.wikipedia.org/wiki/Lake_Chad	name:Lake Chad	normalName:lake-chad	normalWikiTitle:lake-chad	predictedType:UNK	
+CANDIDATE	id:5488	inCount:4810	outCount:571	links:59314;5488;655377;5330;15960292	url:http://en.wikipedia.org/wiki/Chad	name:Chad	normalName:chad	normalWikiTitle:chad	predictedType:GPE	
+CANDIDATE	id:33675955	inCount:3	outCount:15	links:	url:http://en.wikipedia.org/wiki/Chad_(chess_variant)	name:Chad	normalName:chad	normalWikiTitle:chad-chess-variant	predictedType:UNK	
+CANDIDATE	id:23520871	inCount:3	outCount:31	links:	url:http://en.wikipedia.org/wiki/Chad_(slang)	name:Chad	normalName:chad	normalWikiTitle:chad-slang	predictedType:UNK	
+CANDIDATE	id:1349055	inCount:190	outCount:63	links:	url:http://en.wikipedia.org/wiki/Chad_Hugo	name:Chad Hugo	normalName:chad-hugo	normalWikiTitle:chad-hugo	predictedType:UNK	
+CANDIDATE	id:20384601	inCount:8	outCount:35	links:	url:http://en.wikipedia.org/wiki/Chad,_Matt_&_Rob	name:Chad, Matt & Rob	normalName:chad-matt-rob	normalWikiTitle:chad-matt-rob	predictedType:PER	
+CANDIDATE	id:5330	inCount:101	outCount:180	links:59314;5488;15960292;5330	url:http://en.wikipedia.org/wiki/Geography_of_Chad	name:Geography of Chad	normalName:geography-of-chad	normalWikiTitle:geography-of-chad	predictedType:UNK	
+CANDIDATE	id:83481	inCount:116	outCount:20	links:	url:http://en.wikipedia.org/wiki/Chad_(paper)	name:Chad	normalName:chad	normalWikiTitle:chad-paper	predictedType:UNK	
+CANDIDATE	id:6712415	inCount:204	outCount:43	links:6712415	url:http://en.wikipedia.org/wiki/Chad_Brock	name:Chad Brock	normalName:chad-brock	normalWikiTitle:chad-brock	predictedType:UNK	
+CANDIDATE	id:16460678	inCount:9	outCount:16	links:59314	url:http://en.wikipedia.org/wiki/Lake_Chad_(Antarctica)	name:Lake Chad	normalName:lake-chad	normalWikiTitle:lake-chad-antarctica	predictedType:UNK	
+CANDIDATE	id:1573293	inCount:104	outCount:89	links:31639859	url:http://en.wikipedia.org/wiki/Chad_Valley	name:Chad Valley	normalName:chad-valley	normalWikiTitle:chad-valley	predictedType:UNK	
+ENTITY	text:Chad	normalName:chad	predictedType:UNK	q:true	qid:Q990	docId:990	origText:Chad	url:NIL
+CANDIDATE	id:31639859	inCount:3	outCount:96	links:1573293	url:http://en.wikipedia.org/wiki/Chad_Valley,_Birmingham	name:Chad Valley, Birmingham	normalName:chad-valley-birmingham	normalWikiTitle:chad-valley-birmingham	predictedType:GPE	
+CANDIDATE	id:15960292	inCount:101	outCount:111	links:5488;15960292;5330	url:http://en.wikipedia.org/wiki/Religion_in_Chad	name:Religion in Chad	normalName:religion-in-chad	normalWikiTitle:religion-in-chad	predictedType:UNK	
+CANDIDATE	id:59314	inCount:306	outCount:87	links:5488;16460678;5330	url:http://en.wikipedia.org/wiki/Lake_Chad	name:Lake Chad	normalName:lake-chad	normalWikiTitle:lake-chad	predictedType:UNK	
+CANDIDATE	id:5488	inCount:4810	outCount:571	links:59314;5488;655377;5330;15960292	url:http://en.wikipedia.org/wiki/Chad	name:Chad	normalName:chad	normalWikiTitle:chad	predictedType:GPE	
+CANDIDATE	id:33675955	inCount:3	outCount:15	links:	url:http://en.wikipedia.org/wiki/Chad_(chess_variant)	name:Chad	normalName:chad	normalWikiTitle:chad-chess-variant	predictedType:UNK	
+CANDIDATE	id:23520871	inCount:3	outCount:31	links:	url:http://en.wikipedia.org/wiki/Chad_(slang)	name:Chad	normalName:chad	normalWikiTitle:chad-slang	predictedType:UNK	
+CANDIDATE	id:1349055	inCount:190	outCount:63	links:	url:http://en.wikipedia.org/wiki/Chad_Hugo	name:Chad Hugo	normalName:chad-hugo	normalWikiTitle:chad-hugo	predictedType:UNK	
+CANDIDATE	id:20384601	inCount:8	outCount:35	links:	url:http://en.wikipedia.org/wiki/Chad,_Matt_&_Rob	name:Chad, Matt & Rob	normalName:chad-matt-rob	normalWikiTitle:chad-matt-rob	predictedType:PER	
+CANDIDATE	id:5330	inCount:101	outCount:180	links:59314;5488;15960292;5330	url:http://en.wikipedia.org/wiki/Geography_of_Chad	name:Geography of Chad	normalName:geography-of-chad	normalWikiTitle:geography-of-chad	predictedType:UNK	
+CANDIDATE	id:83481	inCount:116	outCount:20	links:	url:http://en.wikipedia.org/wiki/Chad_(paper)	name:Chad	normalName:chad	normalWikiTitle:chad-paper	predictedType:UNK	
+CANDIDATE	id:6712415	inCount:204	outCount:43	links:6712415	url:http://en.wikipedia.org/wiki/Chad_Brock	name:Chad Brock	normalName:chad-brock	normalWikiTitle:chad-brock	predictedType:UNK	
+CANDIDATE	id:16460678	inCount:9	outCount:16	links:59314	url:http://en.wikipedia.org/wiki/Lake_Chad_(Antarctica)	name:Lake Chad	normalName:lake-chad	normalWikiTitle:lake-chad-antarctica	predictedType:UNK	
+CANDIDATE	id:1573293	inCount:104	outCount:89	links:31639859	url:http://en.wikipedia.org/wiki/Chad_Valley	name:Chad Valley	normalName:chad-valley	normalWikiTitle:chad-valley	predictedType:UNK	
+ENTITY	text:Nagoum Yamassoum	normalName:nagoum-yamassoum	predictedType:UNK	q:true	qid:Q990	docId:990	origText:Nagoum Yamassoum	url:http://en.wikipedia.org/wiki/Nagoum_Yamassoum
+CANDIDATE	id:655377	inCount:37	outCount:31	links:5488	url:http://en.wikipedia.org/wiki/Nagoum_Yamassoum	name:Nagoum Yamassoum	normalName:nagoum-yamassoum	normalWikiTitle:nagoum-yamassoum	predictedType:PER	

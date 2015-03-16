@@ -1,0 +1,76 @@
+ENTITY	text:Moslem	normalName:moslem	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Moslem	url:http://en.wikipedia.org/wiki/Islam
+CANDIDATE	id:6037917	inCount:20084	outCount:792	links:6037917	url:http://en.wikipedia.org/wiki/Islam	name:Islam	normalName:islam	normalWikiTitle:islam	predictedType:UNK	
+ENTITY	text:Algerians	normalName:algerians	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Algerians	url:http://en.wikipedia.org/wiki/Algeria
+CANDIDATE	id:358	inCount:17332	outCount:718	links:358;1644;20667174;9195122;32947788;3692545;14712233;1973841;5637211;575244;22989;14880919;7172945;5183392;1304276	url:http://en.wikipedia.org/wiki/Algeria	name:Algeria	normalName:algeria	normalWikiTitle:algeria	predictedType:GPE	
+ENTITY	text:PARIS	normalName:paris	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:PARIS	url:http://en.wikipedia.org/wiki/Paris
+CANDIDATE	id:22989	inCount:46849	outCount:1623	links:358;1644;33006596;22192200;22989;84692;705310;3453075;513436;295105;1973841;932079;7758150	url:http://en.wikipedia.org/wiki/Paris	name:Paris	normalName:paris	normalWikiTitle:paris	predictedType:UNK	
+CANDIDATE	id:7758150	inCount:2	outCount:9	links:22989	url:http://en.wikipedia.org/wiki/Paris,_Paris	name:Paris, Paris	normalName:paris-paris	normalWikiTitle:paris-paris	predictedType:UNK	
+CANDIDATE	id:3453075	inCount:551	outCount:133	links:22989	url:http://en.wikipedia.org/wiki/Paris_Opera	name:Paris Opera	normalName:paris-opera	normalWikiTitle:paris-opera	predictedType:ORG	
+CANDIDATE	id:295105	inCount:1324	outCount:361	links:295105;22989	url:http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919	name:Paris Peace Conference, 1919	normalName:paris-peace-conference-1919	normalWikiTitle:paris-peace-conference-1919	predictedType:UNK	
+CANDIDATE	id:10308003	inCount:1	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TN_μSA	name:Paris, TN μSA	normalName:paris-tn-μsa	normalWikiTitle:paris-tn-μsa	predictedType:PER	
+CANDIDATE	id:31420657	inCount:1	outCount:7	links:	url:http://en.wikipedia.org/wiki/Paris,_Denmark	name:Paris, Denmark	normalName:paris-denmark	normalWikiTitle:paris-denmark	predictedType:UNK	
+CANDIDATE	id:6198965	inCount:2	outCount:10	links:	url:http://en.wikipedia.org/wiki/Little_Paris	name:Little Paris	normalName:little-paris	normalWikiTitle:little-paris	predictedType:UNK	
+CANDIDATE	id:5655865	inCount:40	outCount:58	links:141772	url:http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin	name:Paris (community), Wisconsin	normalName:paris-community-wisconsin	normalWikiTitle:paris-community-wisconsin	predictedType:UNK	
+CANDIDATE	id:111145	inCount:145	outCount:93	links:	url:http://en.wikipedia.org/wiki/Paris,_Illinois	name:Paris, Illinois	normalName:paris-illinois	normalWikiTitle:paris-illinois	predictedType:UNK	
+CANDIDATE	id:248424	inCount:203	outCount:53	links:	url:http://en.wikipedia.org/wiki/Paris,_Ontario	name:Paris, Ontario	normalName:paris-ontario	normalWikiTitle:paris-ontario	predictedType:GPE	
+CANDIDATE	id:23768447	inCount:3	outCount:33	links:	url:http://en.wikipedia.org/wiki/Paris,_Not_France	name:Paris, Not France	normalName:paris-not-france	normalWikiTitle:paris-not-france	predictedType:UNK	
+CANDIDATE	id:10224966	inCount:1	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TX_μSA	name:Paris, TX μSA	normalName:paris-tx-μsa	normalWikiTitle:paris-tx-μsa	predictedType:PER	
+CANDIDATE	id:18746173	inCount:0	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TN_µSA	name:Paris, TN µSA	normalName:paris-tn-µsa	normalWikiTitle:paris-tn-µsa	predictedType:PER	
+CANDIDATE	id:22192200	inCount:73	outCount:81	links:22989	url:http://en.wikipedia.org/wiki/.paris	name:.paris	normalName:paris	normalWikiTitle:paris	predictedType:UNK	
+CANDIDATE	id:31631798	inCount:30	outCount:59	links:	url:http://en.wikipedia.org/wiki/Paris,_Iowa	name:Paris, Iowa	normalName:paris-iowa	normalWikiTitle:paris-iowa	predictedType:UNK	
+CANDIDATE	id:4380507	inCount:178	outCount:264	links:	url:http://en.wikipedia.org/wiki/Count_Paris	name:Count Paris	normalName:count-paris	normalWikiTitle:count-paris	predictedType:UNK	
+CANDIDATE	id:3320433	inCount:8	outCount:13	links:	url:http://en.wikipedia.org/wiki/Paris_(genus)	name:Paris	normalName:paris	normalWikiTitle:paris-genus	predictedType:PER	
+CANDIDATE	id:1645419	inCount:7	outCount:11	links:	url:http://en.wikipedia.org/wiki/Paris,_Texas_(band)	name:Paris, Texas	normalName:paris-texas	normalWikiTitle:paris-texas-band	predictedType:UNK	
+CANDIDATE	id:4360088	inCount:0	outCount:257	links:	url:http://en.wikipedia.org/wiki/Paris,_je_t'aime	name:Paris, je t'aime	normalName:paris-je-taime	normalWikiTitle:paris-je-taime	predictedType:UNK	
+CANDIDATE	id:141772	inCount:0	outCount:3	links:5655865	url:http://en.wikipedia.org/wiki/Paris,_Wisconsin	name:Paris, Wisconsin	normalName:paris-wisconsin	normalWikiTitle:paris-wisconsin	predictedType:GPE	
+CANDIDATE	id:18746176	inCount:0	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TX_µSA	name:Paris, TX µSA	normalName:paris-tx-µsa	normalWikiTitle:paris-tx-µsa	predictedType:PER	
+CANDIDATE	id:36726996	inCount:15	outCount:33	links:	url:http://en.wikipedia.org/wiki/Paris,_Mississippi	name:Paris, Mississippi	normalName:paris-mississippi	normalWikiTitle:paris-mississippi	predictedType:GPE	
+CANDIDATE	id:705310	inCount:278	outCount:202	links:22989	url:http://en.wikipedia.org/wiki/Paris_Las_Vegas	name:Paris Las Vegas	normalName:paris-las-vegas	normalWikiTitle:paris-las-vegas	predictedType:ORG	
+CANDIDATE	id:11287669	inCount:34	outCount:38	links:	url:http://en.wikipedia.org/wiki/SS_Paris_(1916)	name:SS Paris	normalName:ss-paris	normalWikiTitle:ss-paris-1916	predictedType:UNK	
+CANDIDATE	id:32977266	inCount:16	outCount:20	links:	url:http://en.wikipedia.org/wiki/Paris_(band)	name:Paris	normalName:paris	normalWikiTitle:paris-band	predictedType:UNK	
+CANDIDATE	id:35318735	inCount:24	outCount:35	links:	url:http://en.wikipedia.org/wiki/Paris_(Ooh_La_La)	name:Paris	normalName:paris	normalWikiTitle:paris-ooh-la-la	predictedType:UNK	
+CANDIDATE	id:15956462	inCount:49	outCount:46	links:	url:http://en.wikipedia.org/wiki/Paris,_Tokyo	name:Paris, Tokyo	normalName:paris-tokyo	normalWikiTitle:paris-tokyo	predictedType:UNK	
+CANDIDATE	id:33006596	inCount:259	outCount:318	links:22989	url:http://en.wikipedia.org/wiki/Niggas_in_Paris	name:Niggas in Paris	normalName:niggas-in-paris	normalWikiTitle:niggas-in-paris	predictedType:UNK	
+CANDIDATE	id:1853308	inCount:0	outCount:9	links:	url:http://en.wikipedia.org/wiki/Paris_Airport	name:Paris Airport	normalName:paris-airport	normalWikiTitle:paris-airport	predictedType:UNK	
+CANDIDATE	id:9289655	inCount:5	outCount:10	links:	url:http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian)	name:Paris	normalName:paris	normalWikiTitle:paris-actor-under-domitian	predictedType:PER	
+CANDIDATE	id:9628841	inCount:59	outCount:65	links:	url:http://en.wikipedia.org/wiki/Paris,_Ohio	name:Paris, Ohio	normalName:paris-ohio	normalWikiTitle:paris-ohio	predictedType:GPE	
+CANDIDATE	id:8506637	inCount:3	outCount:18	links:	url:http://en.wikipedia.org/wiki/París_(retail)	name:París	normalName:paris	normalWikiTitle:paris-retail	predictedType:UNK	
+CANDIDATE	id:42983166	inCount:4	outCount:22	links:	url:http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404	name:Paris, BN, lat. 4404	normalName:paris-bn-lat-4404	normalWikiTitle:paris-bn-lat-4404	predictedType:UNK	
+CANDIDATE	id:84692	inCount:2888	outCount:164	links:22989	url:http://en.wikipedia.org/wiki/University_of_Paris	name:University of Paris	normalName:university-of-paris	normalWikiTitle:university-of-paris	predictedType:ORG	
+CANDIDATE	id:14609428	inCount:2	outCount:9	links:	url:http://en.wikipedia.org/wiki/Paris,_Kiribati	name:Paris, Kiribati	normalName:paris-kiribati	normalWikiTitle:paris-kiribati	predictedType:UNK	
+CANDIDATE	id:14384812	inCount:9	outCount:11	links:14384812	url:http://en.wikipedia.org/wiki/Paris_(Pantheon)	name:Paris	normalName:paris	normalWikiTitle:paris-pantheon	predictedType:UNK	
+CANDIDATE	id:932079	inCount:86	outCount:56	links:22989	url:http://en.wikipedia.org/wiki/Paris_Club	name:Paris Club	normalName:paris-club	normalWikiTitle:paris-club	predictedType:UNK	
+CANDIDATE	id:513436	inCount:42	outCount:51	links:22989	url:http://en.wikipedia.org/wiki/Paris,_Yukon	name:Paris, Yukon	normalName:paris-yukon	normalWikiTitle:paris-yukon	predictedType:UNK	
+CANDIDATE	id:3111017	inCount:137	outCount:216	links:	url:http://en.wikipedia.org/wiki/Paris,_Pennsylvania	name:Paris, Pennsylvania	normalName:paris-pennsylvania	normalWikiTitle:paris-pennsylvania	predictedType:GPE	
+CANDIDATE	id:13482794	inCount:52	outCount:61	links:	url:http://en.wikipedia.org/wiki/Paris,_Virginia	name:Paris, Virginia	normalName:paris-virginia	normalWikiTitle:paris-virginia	predictedType:GPE	
+CANDIDATE	id:1973841	inCount:442	outCount:93	links:22989;358	url:http://en.wikipedia.org/wiki/Paris_FC	name:Paris FC	normalName:paris-fc	normalWikiTitle:paris-fc	predictedType:UNK	
+CANDIDATE	id:212144	inCount:63	outCount:47	links:	url:http://en.wikipedia.org/wiki/Paris_(rapper)	name:Paris	normalName:paris	normalWikiTitle:paris-rapper	predictedType:UNK	
+ENTITY	text:Moslem	normalName:moslem	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Moslem	url:http://en.wikipedia.org/wiki/Islam
+CANDIDATE	id:6037917	inCount:20084	outCount:792	links:6037917	url:http://en.wikipedia.org/wiki/Islam	name:Islam	normalName:islam	normalWikiTitle:islam	predictedType:UNK	
+ENTITY	text:Blida	normalName:blida	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Blida	url:http://en.wikipedia.org/wiki/Blida_Province
+CANDIDATE	id:3692545	inCount:174	outCount:102	links:7172945;1304276;358;14880919;3692545	url:http://en.wikipedia.org/wiki/Blida_Province	name:Blida Province	normalName:blida-province	normalWikiTitle:blida-province	predictedType:UNK	
+CANDIDATE	id:42906975	inCount:2	outCount:3	links:	url:http://en.wikipedia.org/wiki/Blida,_Lebanon	name:Blida, Lebanon	normalName:blida-lebanon	normalWikiTitle:blida-lebanon	predictedType:UNK	
+CANDIDATE	id:32947788	inCount:94	outCount:25	links:5183392;1304276;358	url:http://en.wikipedia.org/wiki/University_of_Blida	name:University of Blida	normalName:university-of-blida	normalWikiTitle:university-of-blida	predictedType:UNK	
+CANDIDATE	id:9195122	inCount:63	outCount:126	links:1304276;358	url:http://en.wikipedia.org/wiki/Blida_Airport	name:Blida Airport	normalName:blida-airport	normalWikiTitle:blida-airport	predictedType:UNK	
+CANDIDATE	id:5637211	inCount:139	outCount:61	links:1304276;358	url:http://en.wikipedia.org/wiki/USM_Blida	name:USM Blida	normalName:usm-blida	normalWikiTitle:usm-blida	predictedType:UNK	
+CANDIDATE	id:14880919	inCount:35	outCount:46	links:3692545;1304276;358	url:http://en.wikipedia.org/wiki/Blida_District	name:Blida District	normalName:blida-district	normalWikiTitle:blida-district	predictedType:UNK	
+CANDIDATE	id:1304276	inCount:238	outCount:103	links:1644;9195122;32947788;3692545;5637211;358;14880919	url:http://en.wikipedia.org/wiki/Blida	name:Blida	normalName:blida	normalWikiTitle:blida	predictedType:UNK	
+ENTITY	text:Algiers	normalName:algiers	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Algiers	url:http://en.wikipedia.org/wiki/Algiers
+CANDIDATE	id:1644	inCount:3457	outCount:584	links:358;20667174;7172945;29214636;5183392;22989;1304276	url:http://en.wikipedia.org/wiki/Algiers	name:Algiers	normalName:algiers	normalWikiTitle:algiers	predictedType:GPE	
+CANDIDATE	id:14712233	inCount:34	outCount:45	links:358	url:http://en.wikipedia.org/wiki/Algiers,_Vermont	name:Algiers, Vermont	normalName:algiers-vermont	normalWikiTitle:algiers-vermont	predictedType:UNK	
+CANDIDATE	id:7172945	inCount:322	outCount:134	links:1644;7172945;358;3692545	url:http://en.wikipedia.org/wiki/Algiers_Province	name:Algiers Province	normalName:algiers-province	normalWikiTitle:algiers-province	predictedType:UNK	
+CANDIDATE	id:575244	inCount:89	outCount:83	links:358	url:http://en.wikipedia.org/wiki/Algiers,_New_Orleans	name:Algiers, New Orleans	normalName:algiers-new-orleans	normalWikiTitle:algiers-new-orleans	predictedType:UNK	
+CANDIDATE	id:42622712	inCount:25	outCount:30	links:	url:http://en.wikipedia.org/wiki/Algiers,_Indiana	name:Algiers, Indiana	normalName:algiers-indiana	normalWikiTitle:algiers-indiana	predictedType:GPE	
+CANDIDATE	id:5183392	inCount:162	outCount:105	links:1644;32947788;358	url:http://en.wikipedia.org/wiki/University_of_Algiers	name:University of Algiers	normalName:university-of-algiers	normalWikiTitle:university-of-algiers	predictedType:ORG	
+CANDIDATE	id:29214636	inCount:235	outCount:228	links:1644	url:http://en.wikipedia.org/wiki/Capture_of_Algiers_(1516)	name:Capture of Algiers	normalName:capture-of-algiers	normalWikiTitle:capture-of-algiers-1516	predictedType:UNK	
+ENTITY	text:Algerian	normalName:algerian	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Algerian	url:http://en.wikipedia.org/wiki/Algeria
+CANDIDATE	id:358	inCount:17332	outCount:718	links:358;1644;20667174;9195122;32947788;3692545;14712233;1973841;5637211;575244;22989;14880919;7172945;5183392;1304276	url:http://en.wikipedia.org/wiki/Algeria	name:Algeria	normalName:algeria	normalWikiTitle:algeria	predictedType:GPE	
+CANDIDATE	id:39316193	inCount:63	outCount:0	links:	url:http://en.wikipedia.org/wiki/Algerian_(solitaire)	name:Algerian	normalName:algerian	normalWikiTitle:algerian-solitaire	predictedType:UNK	
+CANDIDATE	id:20667174	inCount:547	outCount:443	links:358;1644;20667174	url:http://en.wikipedia.org/wiki/Algerian_cuisine	name:Algerian cuisine	normalName:algerian-cuisine	normalWikiTitle:algerian-cuisine	predictedType:UNK	
+ENTITY	text:Algerian	normalName:algerian	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:Algerian	url:http://en.wikipedia.org/wiki/Algeria
+CANDIDATE	id:358	inCount:17332	outCount:718	links:358;1644;20667174;9195122;32947788;3692545;14712233;1973841;5637211;575244;22989;14880919;7172945;5183392;1304276	url:http://en.wikipedia.org/wiki/Algeria	name:Algeria	normalName:algeria	normalWikiTitle:algeria	predictedType:GPE	
+CANDIDATE	id:39316193	inCount:63	outCount:0	links:	url:http://en.wikipedia.org/wiki/Algerian_(solitaire)	name:Algerian	normalName:algerian	normalWikiTitle:algerian-solitaire	predictedType:UNK	
+CANDIDATE	id:20667174	inCount:547	outCount:443	links:358;1644;20667174	url:http://en.wikipedia.org/wiki/Algerian_cuisine	name:Algerian cuisine	normalName:algerian-cuisine	normalWikiTitle:algerian-cuisine	predictedType:UNK	
+ENTITY	text:APS	normalName:aps	predictedType:UNK	q:true	qid:Q1317	docId:1317	origText:APS	url:NIL
+CANDIDATE	id:2006103	inCount:218	outCount:263	links:	url:http://en.wikipedia.org/wiki/APS-C	name:APS-C	normalName:aps-c	normalWikiTitle:aps-c	predictedType:UNK	
+CANDIDATE	id:4465352	inCount:1	outCount:7	links:	url:http://en.wikipedia.org/wiki/APS_Netherlands	name:APS Netherlands	normalName:aps-netherlands	normalWikiTitle:aps-netherlands	predictedType:UNK	

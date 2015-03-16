@@ -1,0 +1,31 @@
+ENTITY	text:PHOENIX	normalName:phoenix	predictedType:UNK	q:true	qid:Q23	docId:23	origText:PHOENIX	url:http://en.wikipedia.org/wiki/Phoenix,_Arizona
+CANDIDATE	id:49121	inCount:7871	outCount:905	links:49121	url:http://en.wikipedia.org/wiki/Phoenix,_Arizona	name:Phoenix, Arizona	normalName:phoenix-arizona	normalWikiTitle:phoenix-arizona	predictedType:GPE	
+CANDIDATE	id:18779224	inCount:4	outCount:21	links:	url:http://en.wikipedia.org/wiki/Phoenix_(Transformers)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-transformers	predictedType:UNK	
+CANDIDATE	id:9138690	inCount:10	outCount:8	links:9138690	url:http://en.wikipedia.org/wiki/Phoenix_(classics_journal)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-classics-journal	predictedType:ORG	
+CANDIDATE	id:49123	inCount:223	outCount:253	links:32473281	url:http://en.wikipedia.org/wiki/Phoenix_(constellation)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-constellation	predictedType:UNK	
+CANDIDATE	id:1744060	inCount:11	outCount:18	links:	url:http://en.wikipedia.org/wiki/Phoenix_breakwaters	name:Phoenix breakwaters	normalName:phoenix-breakwaters	normalWikiTitle:phoenix-breakwaters	predictedType:UNK	
+CANDIDATE	id:5815501	inCount:51	outCount:48	links:	url:http://en.wikipedia.org/wiki/Phoenix_(roller_coaster)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-roller-coaster	predictedType:UNK	
+CANDIDATE	id:25578274	inCount:70	outCount:124	links:	url:http://en.wikipedia.org/wiki/Phoenix_(grape)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-grape	predictedType:UNK	
+CANDIDATE	id:9501597	inCount:39	outCount:75	links:	url:http://en.wikipedia.org/wiki/BAE_Systems_Phoenix	name:BAE Systems Phoenix	normalName:bae-systems-phoenix	normalWikiTitle:bae-systems-phoenix	predictedType:UNK	
+CANDIDATE	id:39172119	inCount:1	outCount:11	links:39103652;27951403	url:http://en.wikipedia.org/wiki/Phoenix_(East_Indiaman)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-east-indiaman	predictedType:UNK	
+CANDIDATE	id:7968800	inCount:3	outCount:4	links:7968800	url:http://en.wikipedia.org/wiki/Phoenix_(literary_magazine)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-literary-magazine	predictedType:UNK	
+CANDIDATE	id:11027565	inCount:4	outCount:30	links:11036369	url:http://en.wikipedia.org/wiki/Phoenix_(1792)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-1792	predictedType:PER	
+CANDIDATE	id:453566	inCount:893	outCount:943	links:453566	url:http://en.wikipedia.org/wiki/Phoenix_(spacecraft)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-spacecraft	predictedType:UNK	
+CANDIDATE	id:34560495	inCount:2	outCount:3	links:	url:http://en.wikipedia.org/wiki/Phoenix_(bicycles)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-bicycles	predictedType:ORG	
+CANDIDATE	id:32473281	inCount:2	outCount:16	links:49123	url:http://en.wikipedia.org/wiki/Phoenix_(Chinese_astronomy)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-chinese-astronomy	predictedType:ORG	
+CANDIDATE	id:1074647	inCount:81	outCount:76	links:	url:http://en.wikipedia.org/wiki/Phoenix_(manga)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-manga	predictedType:UNK	
+CANDIDATE	id:35939392	inCount:5	outCount:280	links:	url:http://en.wikipedia.org/wiki/Phoenix_(Dungeons_&_Dragons)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-dungeons-dragons	predictedType:UNK	
+CANDIDATE	id:10001529	inCount:5	outCount:10	links:	url:http://en.wikipedia.org/wiki/Phoenix_(whaler)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-whaler	predictedType:UNK	
+CANDIDATE	id:37292148	inCount:109	outCount:109	links:	url:http://en.wikipedia.org/wiki/Phoenix_(NCIS)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-ncis	predictedType:UNK	
+CANDIDATE	id:14274364	inCount:48	outCount:76	links:	url:http://en.wikipedia.org/wiki/Phoenix_(compiler_framework)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-compiler-framework	predictedType:UNK	
+CANDIDATE	id:18002974	inCount:4	outCount:9	links:	url:http://en.wikipedia.org/wiki/Phoenix_(EP)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-ep	predictedType:UNK	
+CANDIDATE	id:30422140	inCount:1	outCount:7	links:	url:http://en.wikipedia.org/wiki/Phoenix_(ATC)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-atc	predictedType:UNK	
+CANDIDATE	id:11036369	inCount:4	outCount:31	links:11027565	url:http://en.wikipedia.org/wiki/Phoenix_(Alaska)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-alaska	predictedType:UNK	
+CANDIDATE	id:31280304	inCount:6	outCount:34	links:	url:http://en.wikipedia.org/wiki/Phoenix_(fireboat)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-fireboat	predictedType:UNK	
+CANDIDATE	id:1448672	inCount:7	outCount:17	links:	url:http://en.wikipedia.org/wiki/Phoenix_(currency)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-currency	predictedType:UNK	
+CANDIDATE	id:10391504	inCount:5	outCount:14	links:	url:http://en.wikipedia.org/wiki/USS_Phoenix_(1861)	name:USS Phoenix	normalName:uss-phoenix	normalWikiTitle:uss-phoenix-1861	predictedType:UNK	
+CANDIDATE	id:27951403	inCount:3	outCount:155	links:39172119	url:http://en.wikipedia.org/wiki/Phoenix_(1798)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-1798	predictedType:UNK	
+CANDIDATE	id:39103652	inCount:6	outCount:30	links:39172119	url:http://en.wikipedia.org/wiki/Phoenix_(1785)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-1785	predictedType:UNK	
+CANDIDATE	id:477450	inCount:62	outCount:51	links:	url:http://en.wikipedia.org/wiki/Phoenix_(plant)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-plant	predictedType:UNK	
+CANDIDATE	id:476006	inCount:10	outCount:29	links:	url:http://en.wikipedia.org/wiki/Phoenix_(computer)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-computer	predictedType:UNK	
+CANDIDATE	id:2104390	inCount:3	outCount:11	links:	url:http://en.wikipedia.org/wiki/Phoenix_(boat)	name:Phoenix	normalName:phoenix	normalWikiTitle:phoenix-boat	predictedType:UNK	

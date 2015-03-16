@@ -1,0 +1,22 @@
+ENTITY	text:RANGOON	normalName:rangoon	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:RANGOON	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;28463954;4223826;338207;2242248;13480009	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:Burmese	normalName:burmese	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:Burmese	url:http://en.wikipedia.org/wiki/Burma
+CANDIDATE	id:19457	inCount:10141	outCount:871	links:264440;261787;19457;28463954;29008768;40838696;57404;4223826;338207	url:http://en.wikipedia.org/wiki/Burma	name:Burma	normalName:burma	normalWikiTitle:burma	predictedType:GPE	
+CANDIDATE	id:338207	inCount:2505	outCount:174	links:264440;4223826;338207;2242248;31233043;19457;28463954;13480009;57404	url:http://en.wikipedia.org/wiki/Burmese_language	name:Burmese language	normalName:burmese-language	normalWikiTitle:burmese-language	predictedType:UNK	
+CANDIDATE	id:1857148	inCount:160	outCount:156	links:	url:http://en.wikipedia.org/wiki/Burmese_glass	name:Burmese glass	normalName:burmese-glass	normalWikiTitle:burmese-glass	predictedType:UNK	
+CANDIDATE	id:264440	inCount:486	outCount:477	links:31233043;19457;4223826;338207;57404	url:http://en.wikipedia.org/wiki/Burmese_alphabet	name:Burmese alphabet	normalName:burmese-alphabet	normalWikiTitle:burmese-alphabet	predictedType:UNK	
+CANDIDATE	id:31233043	inCount:24	outCount:53	links:338207;264440	url:http://en.wikipedia.org/wiki/Old_Burmese	name:Old Burmese	normalName:old-burmese	normalWikiTitle:old-burmese	predictedType:UNK	
+CANDIDATE	id:40838696	inCount:2	outCount:7	links:19457	url:http://en.wikipedia.org/wiki/Burmese_chicken	name:Burmese chicken	normalName:burmese-chicken	normalWikiTitle:burmese-chicken	predictedType:UNK	
+CANDIDATE	id:261787	inCount:4	outCount:132	links:19457	url:http://en.wikipedia.org/wiki/Burmese_cat	name:Burmese cat	normalName:burmese-cat	normalWikiTitle:burmese-cat	predictedType:UNK	
+ENTITY	text:Rangoon	normalName:rangoon	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:Rangoon	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;28463954;4223826;338207;2242248;13480009	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:Insein	normalName:insein	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:Insein	url:http://en.wikipedia.org/wiki/Insein_Township
+CANDIDATE	id:4223826	inCount:80	outCount:86	links:264440;13480009;19457;28463954;338207;14990505;29008768;57404	url:http://en.wikipedia.org/wiki/Insein_Township	name:Insein Township	normalName:insein-township	normalWikiTitle:insein-township	predictedType:UNK	
+CANDIDATE	id:14990505	inCount:0	outCount:3	links:29008768;4223826;13480009	url:http://en.wikipedia.org/wiki/Insein	name:Insein	normalName:insein	normalWikiTitle:insein	predictedType:GPE	
+CANDIDATE	id:29008768	inCount:72	outCount:87	links:14990505;13480009;4223826;19457	url:http://en.wikipedia.org/wiki/Insein,_Kale	name:Insein, Kale	normalName:insein-kale	normalWikiTitle:insein-kale	predictedType:UNK	
+CANDIDATE	id:13480009	inCount:44	outCount:10	links:338207;14990505;29008768;4223826;57404	url:http://en.wikipedia.org/wiki/Insein_Prison	name:Insein Prison	normalName:insein-prison	normalWikiTitle:insein-prison	predictedType:UNK	
+CANDIDATE	id:28463954	inCount:4	outCount:5	links:57404;4223826;338207;19457	url:http://en.wikipedia.org/wiki/Insein_Road	name:Insein Road	normalName:insein-road	normalWikiTitle:insein-road	predictedType:UNK	
+ENTITY	text:Rangoon	normalName:rangoon	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:Rangoon	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;28463954;4223826;338207;2242248;13480009	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:Rangoon University	normalName:rangoon-university	predictedType:UNK	q:true	qid:Q1266	docId:1266	origText:Rangoon University	url:http://en.wikipedia.org/wiki/University_of_Yangon
+CANDIDATE	id:2242248	inCount:248	outCount:134	links:338207;57404	url:http://en.wikipedia.org/wiki/University_of_Yangon	name:University of Yangon	normalName:university-of-yangon	normalWikiTitle:university-of-yangon	predictedType:ORG	

@@ -1,0 +1,15 @@
+ENTITY	text:Zambia	normalName:zambia	predictedType:UNK	q:true	qid:Q710	docId:710	origText:Zambia	url:http://en.wikipedia.org/wiki/Zambia
+CANDIDATE	id:34415	inCount:8559	outCount:525	links:3488672;34415;34430;26174209;1045380;29206594;285508;18145623;1517408;23149963	url:http://en.wikipedia.org/wiki/Zambia	name:Zambia	normalName:zambia	normalWikiTitle:zambia	predictedType:GPE	
+CANDIDATE	id:34430	inCount:85	outCount:112	links:34415	url:http://en.wikipedia.org/wiki/Geography_of_Zambia	name:Geography of Zambia	normalName:geography-of-zambia	normalWikiTitle:geography-of-zambia	predictedType:UNK	
+CANDIDATE	id:1045380	inCount:767	outCount:408	links:23149963;34415	url:http://en.wikipedia.org/wiki/Zambia_national_football_team	name:Zambia national football team	normalName:zambia-national-football-team	normalWikiTitle:zambia-national-football-team	predictedType:UNK	
+CANDIDATE	id:1517408	inCount:82	outCount:33	links:34415;29206594;23149963	url:http://en.wikipedia.org/wiki/University_of_Zambia	name:University of Zambia	normalName:university-of-zambia	normalWikiTitle:university-of-zambia	predictedType:ORG	
+ENTITY	text:Frederick Chiluba	normalName:frederick-chiluba	predictedType:UNK	q:true	qid:Q710	docId:710	origText:Chiluba	url:http://en.wikipedia.org/wiki/Frederick_Chiluba
+CANDIDATE	id:285508	inCount:125	outCount:76	links:34415;23149963	url:http://en.wikipedia.org/wiki/Frederick_Chiluba	name:Frederick Chiluba	normalName:frederick-chiluba	normalWikiTitle:frederick-chiluba	predictedType:PER	
+ENTITY	text:LUSAKA	normalName:lusaka	predictedType:UNK	q:true	qid:Q710	docId:710	origText:LUSAKA	url:NIL
+CANDIDATE	id:29206594	inCount:16	outCount:15	links:23149963;34415;1517408	url:http://en.wikipedia.org/wiki/University_of_Lusaka	name:University of Lusaka	normalName:university-of-lusaka	normalWikiTitle:university-of-lusaka	predictedType:ORG	
+CANDIDATE	id:3488672	inCount:106	outCount:94	links:34415;23149963;26174209	url:http://en.wikipedia.org/wiki/Lusaka_Province	name:Lusaka Province	normalName:lusaka-province	normalWikiTitle:lusaka-province	predictedType:UNK	
+CANDIDATE	id:23149963	inCount:925	outCount:198	links:3488672;1517408;26174209;1045380;29206594;285508;18145623;34415	url:http://en.wikipedia.org/wiki/Lusaka	name:Lusaka	normalName:lusaka	normalWikiTitle:lusaka	predictedType:GPE	
+CANDIDATE	id:26174209	inCount:87	outCount:92	links:34415;3488672;23149963	url:http://en.wikipedia.org/wiki/Lusaka_District	name:Lusaka District	normalName:lusaka-district	normalWikiTitle:lusaka-district	predictedType:GPE	
+CANDIDATE	id:18145623	inCount:15	outCount:23	links:34415;23149963	url:http://en.wikipedia.org/wiki/City_of_Lusaka_F.C.	name:City of Lusaka F.C.	normalName:city-of-lusaka-fc	normalWikiTitle:city-of-lusaka-fc	predictedType:ORG	
+ENTITY	text:Frederick Chiluba	normalName:frederick-chiluba	predictedType:UNK	q:true	qid:Q710	docId:710	origText:Frederick Chiluba	url:http://en.wikipedia.org/wiki/Frederick_Chiluba
+CANDIDATE	id:285508	inCount:125	outCount:76	links:34415;23149963	url:http://en.wikipedia.org/wiki/Frederick_Chiluba	name:Frederick Chiluba	normalName:frederick-chiluba	normalWikiTitle:frederick-chiluba	predictedType:PER	

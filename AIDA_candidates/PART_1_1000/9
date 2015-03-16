@@ -1,0 +1,11 @@
+ENTITY	text:Syria	normalName:syria	predictedType:UNK	q:true	qid:Q9	docId:9	origText:Syria	url:http://en.wikipedia.org/wiki/Syria
+CANDIDATE	id:7515849	inCount:15845	outCount:721	links:1928858;12793336;2245563;879212;28542628;39513173;7515849;27473	url:http://en.wikipedia.org/wiki/Syria	name:Syria	normalName:syria	normalWikiTitle:syria	predictedType:GPE	
+CANDIDATE	id:28542628	inCount:153	outCount:173	links:7515849	url:http://en.wikipedia.org/wiki/Little_Syria,_Manhattan	name:Little Syria, Manhattan	normalName:little-syria-manhattan	normalWikiTitle:little-syria-manhattan	predictedType:UNK	
+CANDIDATE	id:12793336	inCount:26	outCount:47	links:7515849;39513173;1928858	url:http://en.wikipedia.org/wiki/Name_of_Syria	name:Name of Syria	normalName:name-of-syria	normalWikiTitle:name-of-syria	predictedType:UNK	
+CANDIDATE	id:10941565	inCount:51	outCount:54	links:	url:http://en.wikipedia.org/wiki/Syria,_Virginia	name:Syria, Virginia	normalName:syria-virginia	normalWikiTitle:syria-virginia	predictedType:GPE	
+CANDIDATE	id:39513173	inCount:132	outCount:479	links:12793336;39513173;2245563;27473;7515849;1928858	url:http://en.wikipedia.org/wiki/Syria_(region)	name:Syria	normalName:syria	normalWikiTitle:syria-region	predictedType:UNK	
+CANDIDATE	id:27473	inCount:171	outCount:215	links:7515849;879212;39513173;2245563;27473;1928858	url:http://en.wikipedia.org/wiki/Geography_of_Syria	name:Geography of Syria	normalName:geography-of-syria	normalWikiTitle:geography-of-syria	predictedType:UNK	
+CANDIDATE	id:1928858	inCount:795	outCount:179	links:39513173;2245563;12793336;27473;7515849	url:http://en.wikipedia.org/wiki/Syria_(Roman_province)	name:Syria	normalName:syria	normalWikiTitle:syria-roman-province	predictedType:UNK	
+CANDIDATE	id:2245563	inCount:274	outCount:205	links:7515849;39513173;2245563;27473;1928858	url:http://en.wikipedia.org/wiki/Greater_Syria	name:Greater Syria	normalName:greater-syria	normalWikiTitle:greater-syria	predictedType:UNK	
+ENTITY	text:Tartous	normalName:tartous	predictedType:UNK	q:true	qid:Q9	docId:9	origText:Tartous	url:http://en.wikipedia.org/wiki/Tartus
+CANDIDATE	id:879212	inCount:176	outCount:77	links:7515849;27473	url:http://en.wikipedia.org/wiki/Tartus	name:Tartus	normalName:tartus	normalWikiTitle:tartus	predictedType:GPE	

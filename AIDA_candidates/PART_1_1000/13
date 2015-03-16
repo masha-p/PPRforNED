@@ -1,0 +1,21 @@
+ENTITY	text:Saudi	normalName:saudi	predictedType:UNK	q:true	qid:Q13	docId:13	origText:Saudi	url:http://en.wikipedia.org/wiki/Saudi_Arabia
+CANDIDATE	id:349303	inCount:14910	outCount:854	links:349303;290527;20481;39881118	url:http://en.wikipedia.org/wiki/Saudi_Arabia	name:Saudi Arabia	normalName:saudi-arabia	normalWikiTitle:saudi-arabia	predictedType:GPE	
+CANDIDATE	id:290527	inCount:447	outCount:354	links:349303	url:http://en.wikipedia.org/wiki/Saudi_Aramco	name:Saudi Aramco	normalName:saudi-aramco	normalWikiTitle:saudi-aramco	predictedType:UNK	
+CANDIDATE	id:39881118	inCount:8	outCount:41	links:349303	url:http://en.wikipedia.org/wiki/Saudi_International	name:Saudi International	normalName:saudi-international	normalWikiTitle:saudi-international	predictedType:UNK	
+ENTITY	text:MANAMA	normalName:manama	predictedType:UNK	q:true	qid:Q13	docId:13	origText:MANAMA	url:http://en.wikipedia.org/wiki/Manama
+CANDIDATE	id:20481	inCount:1052	outCount:477	links:16290997;349303;10518140	url:http://en.wikipedia.org/wiki/Manama	name:Manama	normalName:manama	normalWikiTitle:manama	predictedType:GPE	
+CANDIDATE	id:10518140	inCount:61	outCount:37	links:20481	url:http://en.wikipedia.org/wiki/Manama_Club	name:Manama Club	normalName:manama-club	normalWikiTitle:manama-club	predictedType:GPE	
+CANDIDATE	id:21407678	inCount:36	outCount:54	links:28360756	url:http://en.wikipedia.org/wiki/Manama,_Zimbabwe	name:Manama, Zimbabwe	normalName:manama-zimbabwe	normalWikiTitle:manama-zimbabwe	predictedType:GPE	
+CANDIDATE	id:16290997	inCount:15	outCount:18	links:20481	url:http://en.wikipedia.org/wiki/Manama,_Ajman	name:Manama, Ajman	normalName:manama-ajman	normalWikiTitle:manama-ajman	predictedType:UNK	
+CANDIDATE	id:28360756	inCount:34	outCount:52	links:21407678	url:http://en.wikipedia.org/wiki/Manama_(village)	name:Manama	normalName:manama	normalWikiTitle:manama-village	predictedType:GPE	
+ENTITY	text:Saudi	normalName:saudi	predictedType:UNK	q:true	qid:Q13	docId:13	origText:Saudi	url:http://en.wikipedia.org/wiki/Saudi_Arabia
+CANDIDATE	id:349303	inCount:14910	outCount:854	links:349303;290527;20481;39881118	url:http://en.wikipedia.org/wiki/Saudi_Arabia	name:Saudi Arabia	normalName:saudi-arabia	normalWikiTitle:saudi-arabia	predictedType:GPE	
+CANDIDATE	id:290527	inCount:447	outCount:354	links:349303	url:http://en.wikipedia.org/wiki/Saudi_Aramco	name:Saudi Aramco	normalName:saudi-aramco	normalWikiTitle:saudi-aramco	predictedType:UNK	
+CANDIDATE	id:39881118	inCount:8	outCount:41	links:349303	url:http://en.wikipedia.org/wiki/Saudi_International	name:Saudi International	normalName:saudi-international	normalWikiTitle:saudi-international	predictedType:UNK	
+ENTITY	text:Saudi	normalName:saudi	predictedType:UNK	q:true	qid:Q13	docId:13	origText:Saudi	url:http://en.wikipedia.org/wiki/Saudi_Arabia
+CANDIDATE	id:349303	inCount:14910	outCount:854	links:349303;290527;20481;39881118	url:http://en.wikipedia.org/wiki/Saudi_Arabia	name:Saudi Arabia	normalName:saudi-arabia	normalWikiTitle:saudi-arabia	predictedType:GPE	
+CANDIDATE	id:290527	inCount:447	outCount:354	links:349303	url:http://en.wikipedia.org/wiki/Saudi_Aramco	name:Saudi Aramco	normalName:saudi-aramco	normalWikiTitle:saudi-aramco	predictedType:UNK	
+CANDIDATE	id:39881118	inCount:8	outCount:41	links:349303	url:http://en.wikipedia.org/wiki/Saudi_International	name:Saudi International	normalName:saudi-international	normalWikiTitle:saudi-international	predictedType:UNK	
+ENTITY	text:One-year	normalName:one-year	predictedType:UNK	q:true	qid:Q13	docId:13	origText:One-year	url:NIL
+CANDIDATE	id:4522770	inCount:294	outCount:219	links:	url:http://en.wikipedia.org/wiki/One_Year_Later	name:One Year Later	normalName:one-year-later	normalWikiTitle:one-year-later	predictedType:UNK	
+CANDIDATE	id:22511079	inCount:2	outCount:20	links:	url:http://en.wikipedia.org/wiki/One_Year	name:One Year	normalName:one-year	normalWikiTitle:one-year	predictedType:UNK	

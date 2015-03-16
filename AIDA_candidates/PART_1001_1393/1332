@@ -1,0 +1,35 @@
+ENTITY	text:Burmese	normalName:burmese	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Burmese	url:http://en.wikipedia.org/wiki/Burma
+CANDIDATE	id:19457	inCount:10141	outCount:871	links:264440;261787;2203640;19457;18998750;40838696;57404;338207	url:http://en.wikipedia.org/wiki/Burma	name:Burma	normalName:burma	normalWikiTitle:burma	predictedType:GPE	
+CANDIDATE	id:1857148	inCount:160	outCount:156	links:	url:http://en.wikipedia.org/wiki/Burmese_glass	name:Burmese glass	normalName:burmese-glass	normalWikiTitle:burmese-glass	predictedType:UNK	
+CANDIDATE	id:264440	inCount:486	outCount:477	links:31233043;19457;338207;57404	url:http://en.wikipedia.org/wiki/Burmese_alphabet	name:Burmese alphabet	normalName:burmese-alphabet	normalWikiTitle:burmese-alphabet	predictedType:UNK	
+CANDIDATE	id:338207	inCount:2505	outCount:174	links:264440;338207;2242248;3026872;31233043;19457;57404	url:http://en.wikipedia.org/wiki/Burmese_language	name:Burmese language	normalName:burmese-language	normalWikiTitle:burmese-language	predictedType:UNK	
+CANDIDATE	id:31233043	inCount:24	outCount:53	links:338207;264440	url:http://en.wikipedia.org/wiki/Old_Burmese	name:Old Burmese	normalName:old-burmese	normalWikiTitle:old-burmese	predictedType:UNK	
+CANDIDATE	id:40838696	inCount:2	outCount:7	links:19457	url:http://en.wikipedia.org/wiki/Burmese_chicken	name:Burmese chicken	normalName:burmese-chicken	normalWikiTitle:burmese-chicken	predictedType:UNK	
+CANDIDATE	id:261787	inCount:4	outCount:132	links:19457	url:http://en.wikipedia.org/wiki/Burmese_cat	name:Burmese cat	normalName:burmese-cat	normalWikiTitle:burmese-cat	predictedType:UNK	
+ENTITY	text:RANGOON	normalName:rangoon	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:RANGOON	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;338207;2242248;3026872;2203640	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:Burmese	normalName:burmese	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Burmese	url:http://en.wikipedia.org/wiki/Burma
+CANDIDATE	id:19457	inCount:10141	outCount:871	links:264440;261787;2203640;19457;18998750;40838696;57404;338207	url:http://en.wikipedia.org/wiki/Burma	name:Burma	normalName:burma	normalWikiTitle:burma	predictedType:GPE	
+CANDIDATE	id:1857148	inCount:160	outCount:156	links:	url:http://en.wikipedia.org/wiki/Burmese_glass	name:Burmese glass	normalName:burmese-glass	normalWikiTitle:burmese-glass	predictedType:UNK	
+CANDIDATE	id:264440	inCount:486	outCount:477	links:31233043;19457;338207;57404	url:http://en.wikipedia.org/wiki/Burmese_alphabet	name:Burmese alphabet	normalName:burmese-alphabet	normalWikiTitle:burmese-alphabet	predictedType:UNK	
+CANDIDATE	id:338207	inCount:2505	outCount:174	links:264440;338207;2242248;3026872;31233043;19457;57404	url:http://en.wikipedia.org/wiki/Burmese_language	name:Burmese language	normalName:burmese-language	normalWikiTitle:burmese-language	predictedType:UNK	
+CANDIDATE	id:31233043	inCount:24	outCount:53	links:338207;264440	url:http://en.wikipedia.org/wiki/Old_Burmese	name:Old Burmese	normalName:old-burmese	normalWikiTitle:old-burmese	predictedType:UNK	
+CANDIDATE	id:40838696	inCount:2	outCount:7	links:19457	url:http://en.wikipedia.org/wiki/Burmese_chicken	name:Burmese chicken	normalName:burmese-chicken	normalWikiTitle:burmese-chicken	predictedType:UNK	
+CANDIDATE	id:261787	inCount:4	outCount:132	links:19457	url:http://en.wikipedia.org/wiki/Burmese_cat	name:Burmese cat	normalName:burmese-cat	normalWikiTitle:burmese-cat	predictedType:UNK	
+ENTITY	text:Yangon Institute of Technology	normalName:yangon-institute-of-technology	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Yangon Institute of Technology	url:http://en.wikipedia.org/wiki/Yangon_Technological_University
+CANDIDATE	id:3026872	inCount:36	outCount:42	links:338207;2242248;57404	url:http://en.wikipedia.org/wiki/Yangon_Technological_University	name:Yangon Technological University	normalName:yangon-technological-university	normalWikiTitle:yangon-technological-university	predictedType:ORG	
+ENTITY	text:YIT	normalName:yit	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:YIT	url:NIL
+CANDIDATE	id:12665387	inCount:42	outCount:83	links:	url:http://en.wikipedia.org/wiki/YIT	name:YIT	normalName:yit	normalWikiTitle:yit	predictedType:UNK	
+ENTITY	text:Rangoon	normalName:rangoon	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Rangoon	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;338207;2242248;3026872;2203640	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:University of Yangon	normalName:university-of-yangon	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:University of Yangon	url:http://en.wikipedia.org/wiki/University_of_Yangon
+CANDIDATE	id:2242248	inCount:248	outCount:134	links:2203640;338207;3026872;57404	url:http://en.wikipedia.org/wiki/University_of_Yangon	name:University of Yangon	normalName:university-of-yangon	normalWikiTitle:university-of-yangon	predictedType:ORG	
+ENTITY	text:YIT	normalName:yit	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:YIT	url:NIL
+CANDIDATE	id:12665387	inCount:42	outCount:83	links:	url:http://en.wikipedia.org/wiki/YIT	name:YIT	normalName:yit	normalWikiTitle:yit	predictedType:UNK	
+ENTITY	text:Shwe Dagon	normalName:shwe-dagon	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Shwe Dagon	url:http://en.wikipedia.org/wiki/Shwedagon_Pagoda
+CANDIDATE	id:2203640	inCount:111	outCount:75	links:2203640;19457;2242248;57404	url:http://en.wikipedia.org/wiki/Shwedagon_Pagoda	name:Shwedagon Pagoda	normalName:shwedagon-pagoda	normalWikiTitle:shwedagon-pagoda	predictedType:UNK	
+ENTITY	text:Rangoon	normalName:rangoon	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Rangoon	url:http://en.wikipedia.org/wiki/Yangon
+CANDIDATE	id:57404	inCount:1393	outCount:241	links:264440;19457;338207;2242248;3026872;2203640	url:http://en.wikipedia.org/wiki/Yangon	name:Yangon	normalName:yangon	normalWikiTitle:yangon	predictedType:GPE	
+ENTITY	text:Reuters	normalName:reuters	predictedType:UNK	q:true	qid:Q1332	docId:1332	origText:Reuters	url:http://en.wikipedia.org/wiki/Reuters
+CANDIDATE	id:18998750	inCount:9093	outCount:418	links:19457;18998750;2171552	url:http://en.wikipedia.org/wiki/Reuters	name:Reuters	normalName:reuters	normalWikiTitle:reuters	predictedType:UNK	
+CANDIDATE	id:2171552	inCount:66	outCount:99	links:18998750	url:http://en.wikipedia.org/wiki/Reuters_Group	name:Reuters Group	normalName:reuters-group	normalWikiTitle:reuters-group	predictedType:UNK	

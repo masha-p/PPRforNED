@@ -1,0 +1,8 @@
+ENTITY	text:OFFICIAL JOURNAL	normalName:official-journal	predictedType:UNK	q:true	qid:Q516	docId:516	origText:OFFICIAL JOURNAL	url:NIL
+CANDIDATE	id:3198308	inCount:52	outCount:85	links:	url:http://en.wikipedia.org/wiki/Official_Journal_of_the_European_Patent_Office	name:Official Journal of the European Patent Office	normalName:official-journal-of-the-european-patent-office	normalWikiTitle:official-journal-of-the-european-patent-office	predictedType:UNK	
+ENTITY	text:OJ	normalName:oj	predictedType:UNK	q:true	qid:Q516	docId:516	origText:OJ	url:NIL
+CANDIDATE	id:818683	inCount:187	outCount:127	links:818683	url:http://en.wikipedia.org/wiki/Oj,_svijetla_majska_zoro	name:Oj, svijetla majska zoro	normalName:oj-svijetla-majska-zoro	normalWikiTitle:oj-svijetla-majska-zoro	predictedType:UNK	
+CANDIDATE	id:9415401	inCount:91	outCount:55	links:	url:http://en.wikipedia.org/wiki/Oj,_oj,_oj,_så_glad_jeg_skal_bli	name:Oj, oj, oj, så glad jeg skal bli	normalName:oj-oj-oj-sa-glad-jeg-skal-bli	normalWikiTitle:oj-oj-oj-sa-glad-jeg-skal-bli	predictedType:UNK	
+CANDIDATE	id:3624173	inCount:1	outCount:6	links:	url:http://en.wikipedia.org/wiki/Oj,_Jelena,_Jelena,_jabuka_zelena	name:Oj, Jelena, Jelena, jabuka zelena	normalName:oj-jelena-jelena-jabuka-zelena	normalWikiTitle:oj-jelena-jelena-jabuka-zelena	predictedType:UNK	
+ENTITY	text:OFFICIAL JOURNAL	normalName:official-journal	predictedType:UNK	q:true	qid:Q516	docId:516	origText:Journal	url:NIL
+CANDIDATE	id:3198308	inCount:52	outCount:85	links:	url:http://en.wikipedia.org/wiki/Official_Journal_of_the_European_Patent_Office	name:Official Journal of the European Patent Office	normalName:official-journal-of-the-european-patent-office	normalWikiTitle:official-journal-of-the-european-patent-office	predictedType:UNK	

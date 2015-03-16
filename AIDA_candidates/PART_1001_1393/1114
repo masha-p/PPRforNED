@@ -1,0 +1,31 @@
+ENTITY	text:GERMAN CUP	normalName:german-cup	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:GERMAN CUP	url:http://en.wikipedia.org/wiki/DFB-Pokal
+CANDIDATE	id:675126	inCount:2264	outCount:259	links:3241723;1734592;1586579;675126;881244	url:http://en.wikipedia.org/wiki/DFB-Pokal	name:DFB-Pokal	normalName:dfb-pokal	normalWikiTitle:dfb-pokal	predictedType:ORG	
+CANDIDATE	id:32908935	inCount:30	outCount:30	links:	url:http://en.wikipedia.org/wiki/German_Cup_(ice_hockey)	name:German Cup	normalName:german-cup	normalWikiTitle:german-cup-ice-hockey	predictedType:GPE	
+ENTITY	text:BONN	normalName:bonn	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:BONN	url:http://en.wikipedia.org/wiki/Bonn
+CANDIDATE	id:3295	inCount:3084	outCount:310	links:105036;89061;101612	url:http://en.wikipedia.org/wiki/Bonn	name:Bonn	normalName:bonn	normalWikiTitle:bonn	predictedType:GPE	
+CANDIDATE	id:89061	inCount:1156	outCount:184	links:3295;89061;4658617	url:http://en.wikipedia.org/wiki/University_of_Bonn	name:University of Bonn	normalName:university-of-bonn	normalWikiTitle:university-of-bonn	predictedType:ORG	
+ENTITY	text:German Cup	normalName:german-cup	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:German Cup	url:http://en.wikipedia.org/wiki/DFB-Pokal
+CANDIDATE	id:675126	inCount:2264	outCount:259	links:3241723;1734592;1586579;675126;881244	url:http://en.wikipedia.org/wiki/DFB-Pokal	name:DFB-Pokal	normalName:dfb-pokal	normalWikiTitle:dfb-pokal	predictedType:ORG	
+CANDIDATE	id:32908935	inCount:30	outCount:30	links:	url:http://en.wikipedia.org/wiki/German_Cup_(ice_hockey)	name:German Cup	normalName:german-cup	normalWikiTitle:german-cup-ice-hockey	predictedType:GPE	
+ENTITY	text:Karlsruhe	normalName:karlsruhe	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:Karlsruhe	url:http://en.wikipedia.org/wiki/Karlsruher_SC
+CANDIDATE	id:1734592	inCount:1075	outCount:304	links:3241723;105036;675126;1734592;599978;1586579;881244	url:http://en.wikipedia.org/wiki/Karlsruher_SC	name:Karlsruher SC	normalName:karlsruher-sc	normalWikiTitle:karlsruher-sc	predictedType:UNK	
+CANDIDATE	id:5960131	inCount:20	outCount:59	links:3582096;105036;15487193	url:http://en.wikipedia.org/wiki/SMS_Karlsruhe	name:SMS Karlsruhe	normalName:sms-karlsruhe	normalWikiTitle:sms-karlsruhe	predictedType:UNK	
+CANDIDATE	id:194895	inCount:264	outCount:21	links:105036;229825	url:http://en.wikipedia.org/wiki/Karlsruhe_(region)	name:Karlsruhe	normalName:karlsruhe	normalWikiTitle:karlsruhe-region	predictedType:UNK	
+CANDIDATE	id:2055931	inCount:24	outCount:26	links:105036	url:http://en.wikipedia.org/wiki/Karlsruhe_model	name:Karlsruhe model	normalName:karlsruhe-model	normalWikiTitle:karlsruhe-model	predictedType:UNK	
+CANDIDATE	id:229825	inCount:202	outCount:102	links:105036;194895	url:http://en.wikipedia.org/wiki/Karlsruhe_(district)	name:Karlsruhe	normalName:karlsruhe	normalWikiTitle:karlsruhe-district	predictedType:GPE	
+CANDIDATE	id:3582096	inCount:73	outCount:56	links:5960131	url:http://en.wikipedia.org/wiki/German_cruiser_Karlsruhe	name:German cruiser Karlsruhe	normalName:german-cruiser-karlsruhe	normalWikiTitle:german-cruiser-karlsruhe	predictedType:UNK	
+CANDIDATE	id:15487193	inCount:20	outCount:57	links:105036;5960131	url:http://en.wikipedia.org/wiki/SMS_Karlsruhe_(1916)	name:SMS Karlsruhe	normalName:sms-karlsruhe	normalWikiTitle:sms-karlsruhe-1916	predictedType:UNK	
+CANDIDATE	id:128596	inCount:29	outCount:59	links:	url:http://en.wikipedia.org/wiki/Karlsruhe,_North_Dakota	name:Karlsruhe, North Dakota	normalName:karlsruhe-north-dakota	normalWikiTitle:karlsruhe-north-dakota	predictedType:GPE	
+CANDIDATE	id:105036	inCount:2198	outCount:369	links:105036;194895;15487193;2055931;1734592;101612;3295;5960131;229825	url:http://en.wikipedia.org/wiki/Karlsruhe	name:Karlsruhe	normalName:karlsruhe	normalWikiTitle:karlsruhe	predictedType:GPE	
+ENTITY	text:Hansa Rostock	normalName:hansa-rostock	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:Hansa Rostock	url:http://en.wikipedia.org/wiki/F.C._Hansa_Rostock
+CANDIDATE	id:599978	inCount:637	outCount:253	links:3241723;1734592;599978;1586579;881244	url:http://en.wikipedia.org/wiki/F.C._Hansa_Rostock	name:F.C. Hansa Rostock	normalName:fc-hansa-rostock	normalWikiTitle:fc-hansa-rostock	predictedType:UNK	
+ENTITY	text:Borussia Neunkirchen	normalName:borussia-neunkirchen	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:Borussia Neunkirchen	url:http://en.wikipedia.org/wiki/Borussia_Neunkirchen
+CANDIDATE	id:3241723	inCount:305	outCount:103	links:599978;1586579;881244;675126;1734592	url:http://en.wikipedia.org/wiki/Borussia_Neunkirchen	name:Borussia Neunkirchen	normalName:borussia-neunkirchen	normalWikiTitle:borussia-neunkirchen	predictedType:UNK	
+ENTITY	text:St Pauli	normalName:st-pauli	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:St Pauli	url:http://en.wikipedia.org/wiki/FC_St._Pauli
+CANDIDATE	id:881244	inCount:813	outCount:356	links:3241723;675126;1734592;599978;1586579;881244;535900	url:http://en.wikipedia.org/wiki/FC_St._Pauli	name:FC St. Pauli	normalName:fc-st-pauli	normalWikiTitle:fc-st-pauli	predictedType:UNK	
+CANDIDATE	id:535900	inCount:155	outCount:130	links:881244	url:http://en.wikipedia.org/wiki/St._Pauli	name:St. Pauli	normalName:st-pauli	normalWikiTitle:st-pauli	predictedType:GPE	
+ENTITY	text:Duisburg	normalName:duisburg	predictedType:UNK	q:true	qid:Q1114	docId:1114	origText:Duisburg	url:http://en.wikipedia.org/wiki/MSV_Duisburg
+CANDIDATE	id:1586579	inCount:1079	outCount:276	links:3241723;675126;1734592;599978;101612;1586579;881244	url:http://en.wikipedia.org/wiki/MSV_Duisburg	name:MSV Duisburg	normalName:msv-duisburg	normalWikiTitle:msv-duisburg	predictedType:UNK	
+CANDIDATE	id:4658617	inCount:28	outCount:7	links:101612;89061	url:http://en.wikipedia.org/wiki/University_of_Duisburg	name:University of Duisburg	normalName:university-of-duisburg	normalWikiTitle:university-of-duisburg	predictedType:ORG	
+CANDIDATE	id:15465427	inCount:3	outCount:11	links:101612	url:http://en.wikipedia.org/wiki/Duisburg_(Tervuren)	name:Duisburg	normalName:duisburg	normalWikiTitle:duisburg-tervuren	predictedType:UNK	
+CANDIDATE	id:101612	inCount:1498	outCount:396	links:105036;1586579;3295;15465427;4658617	url:http://en.wikipedia.org/wiki/Duisburg	name:Duisburg	normalName:duisburg	normalWikiTitle:duisburg	predictedType:GPE	

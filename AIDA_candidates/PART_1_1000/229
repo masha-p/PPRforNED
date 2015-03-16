@@ -1,0 +1,10 @@
+ENTITY	text:S. Korean	normalName:s-korean	predictedType:UNK	q:true	qid:Q229	docId:229	origText:S. Korean	url:http://en.wikipedia.org/wiki/South_Korea
+CANDIDATE	id:27019	inCount:38617	outCount:831	links:905855;1056336;19159283;27019;4196610;4607874	url:http://en.wikipedia.org/wiki/South_Korea	name:South Korea	normalName:south-korea	normalWikiTitle:south-korea	predictedType:GPE	
+ENTITY	text:SEOUL	normalName:seoul	predictedType:UNK	q:true	qid:Q229	docId:229	origText:SEOUL	url:http://en.wikipedia.org/wiki/Seoul
+CANDIDATE	id:19159283	inCount:10914	outCount:801	links:19159283;4196610;905855;4607874;27019;1056336	url:http://en.wikipedia.org/wiki/Seoul	name:Seoul	normalName:seoul	normalWikiTitle:seoul	predictedType:GPE	
+CANDIDATE	id:1056336	inCount:815	outCount:370	links:1056336;19159283;27019	url:http://en.wikipedia.org/wiki/FC_Seoul	name:FC Seoul	normalName:fc-seoul	normalWikiTitle:fc-seoul	predictedType:UNK	
+CANDIDATE	id:4196610	inCount:94	outCount:63	links:19159283;27019	url:http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts	name:Seoul Institute of the Arts	normalName:seoul-institute-of-the-arts	normalWikiTitle:seoul-institute-of-the-arts	predictedType:UNK	
+CANDIDATE	id:4975108	inCount:0	outCount:2	links:	url:http://en.wikipedia.org/wiki/Seoul_Airport	name:Seoul Airport	normalName:seoul-airport	normalWikiTitle:seoul-airport	predictedType:UNK	
+CANDIDATE	id:2178409	inCount:106	outCount:299	links:2178409	url:http://en.wikipedia.org/wiki/Little_Seoul	name:Little Seoul	normalName:little-seoul	normalWikiTitle:little-seoul	predictedType:UNK	
+CANDIDATE	id:4607874	inCount:41	outCount:47	links:19159283;27019	url:http://en.wikipedia.org/wiki/University_of_Seoul	name:University of Seoul	normalName:university-of-seoul	normalWikiTitle:university-of-seoul	predictedType:UNK	
+CANDIDATE	id:905855	inCount:376	outCount:310	links:19159283;27019	url:http://en.wikipedia.org/wiki/Seoul_Station	name:Seoul Station	normalName:seoul-station	normalWikiTitle:seoul-station	predictedType:UNK	

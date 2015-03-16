@@ -1,0 +1,33 @@
+ENTITY	text:SOLIDERE	normalName:solidere	predictedType:UNK	q:true	qid:Q208	docId:208	origText:SOLIDERE	url:http://en.wikipedia.org/wiki/Solidere
+CANDIDATE	id:2886010	inCount:29	outCount:29	links:37428;9848049	url:http://en.wikipedia.org/wiki/Solidere	name:Solidere	normalName:solidere	normalWikiTitle:solidere	predictedType:UNK	
+ENTITY	text:BEIRUT	normalName:beirut	predictedType:UNK	q:true	qid:Q208	docId:208	origText:BEIRUT	url:http://en.wikipedia.org/wiki/Beirut
+CANDIDATE	id:37428	inCount:4850	outCount:765	links:9848049;23370872;32976625;419211;42710804;2886010	url:http://en.wikipedia.org/wiki/Beirut	name:Beirut	normalName:beirut	normalWikiTitle:beirut	predictedType:GPE	
+CANDIDATE	id:42710804	inCount:25	outCount:138	links:37428;42710804	url:http://en.wikipedia.org/wiki/Greater_Beirut	name:Greater Beirut	normalName:greater-beirut	normalWikiTitle:greater-beirut	predictedType:UNK	
+CANDIDATE	id:5132085	inCount:174	outCount:89	links:5132085	url:http://en.wikipedia.org/wiki/Beirut_(band)	name:Beirut	normalName:beirut	normalWikiTitle:beirut-band	predictedType:UNK	
+CANDIDATE	id:419211	inCount:183	outCount:229	links:37428	url:http://en.wikipedia.org/wiki/1983_Beirut_barracks_bombing	name:1983 Beirut barracks bombing	normalName:1983-beirut-barracks-bombing	normalWikiTitle:1983-beirut-barracks-bombing	predictedType:UNK	
+CANDIDATE	id:32976625	inCount:2	outCount:14	links:37428	url:http://en.wikipedia.org/wiki/Beirut_Hotel	name:Beirut Hotel	normalName:beirut-hotel	normalWikiTitle:beirut-hotel	predictedType:UNK	
+CANDIDATE	id:23370872	inCount:13	outCount:24	links:37428	url:http://en.wikipedia.org/wiki/Beirut_River	name:Beirut River	normalName:beirut-river	normalWikiTitle:beirut-river	predictedType:UNK	
+ENTITY	text:SOLIDERE	normalName:solidere	predictedType:UNK	q:true	qid:Q208	docId:208	origText:SOLIDERE	url:http://en.wikipedia.org/wiki/Solidere
+CANDIDATE	id:2886010	inCount:29	outCount:29	links:37428;9848049	url:http://en.wikipedia.org/wiki/Solidere	name:Solidere	normalName:solidere	normalWikiTitle:solidere	predictedType:UNK	
+ENTITY	text:Beirut	normalName:beirut	predictedType:UNK	q:true	qid:Q208	docId:208	origText:Beirut	url:http://en.wikipedia.org/wiki/Beirut
+CANDIDATE	id:37428	inCount:4850	outCount:765	links:9848049;23370872;32976625;419211;42710804;2886010	url:http://en.wikipedia.org/wiki/Beirut	name:Beirut	normalName:beirut	normalWikiTitle:beirut	predictedType:GPE	
+CANDIDATE	id:42710804	inCount:25	outCount:138	links:37428;42710804	url:http://en.wikipedia.org/wiki/Greater_Beirut	name:Greater Beirut	normalName:greater-beirut	normalWikiTitle:greater-beirut	predictedType:UNK	
+CANDIDATE	id:5132085	inCount:174	outCount:89	links:5132085	url:http://en.wikipedia.org/wiki/Beirut_(band)	name:Beirut	normalName:beirut	normalWikiTitle:beirut-band	predictedType:UNK	
+CANDIDATE	id:419211	inCount:183	outCount:229	links:37428	url:http://en.wikipedia.org/wiki/1983_Beirut_barracks_bombing	name:1983 Beirut barracks bombing	normalName:1983-beirut-barracks-bombing	normalWikiTitle:1983-beirut-barracks-bombing	predictedType:UNK	
+CANDIDATE	id:32976625	inCount:2	outCount:14	links:37428	url:http://en.wikipedia.org/wiki/Beirut_Hotel	name:Beirut Hotel	normalName:beirut-hotel	normalWikiTitle:beirut-hotel	predictedType:UNK	
+CANDIDATE	id:23370872	inCount:13	outCount:24	links:37428	url:http://en.wikipedia.org/wiki/Beirut_River	name:Beirut River	normalName:beirut-river	normalWikiTitle:beirut-river	predictedType:UNK	
+ENTITY	text:SOLIDERE	normalName:solidere	predictedType:UNK	q:true	qid:Q208	docId:208	origText:SOLIDERE	url:http://en.wikipedia.org/wiki/Solidere
+CANDIDATE	id:2886010	inCount:29	outCount:29	links:37428;9848049	url:http://en.wikipedia.org/wiki/Solidere	name:Solidere	normalName:solidere	normalWikiTitle:solidere	predictedType:UNK	
+ENTITY	text:SOLIDERE	normalName:solidere	predictedType:UNK	q:true	qid:Q208	docId:208	origText:SOLIDERE	url:http://en.wikipedia.org/wiki/Solidere
+CANDIDATE	id:2886010	inCount:29	outCount:29	links:37428;9848049	url:http://en.wikipedia.org/wiki/Solidere	name:Solidere	normalName:solidere	normalWikiTitle:solidere	predictedType:UNK	
+ENTITY	text:Beirut Stock Exchange	normalName:beirut-stock-exchange	predictedType:UNK	q:true	qid:Q208	docId:208	origText:Beirut Stock Exchange	url:http://en.wikipedia.org/wiki/Beirut_Stock_Exchange
+CANDIDATE	id:9848049	inCount:135	outCount:146	links:2886010;37428	url:http://en.wikipedia.org/wiki/Beirut_Stock_Exchange	name:Beirut Stock Exchange	normalName:beirut-stock-exchange	normalWikiTitle:beirut-stock-exchange	predictedType:UNK	
+ENTITY	text:Eternit	normalName:eternit	predictedType:UNK	q:true	qid:Q208	docId:208	origText:Eternit	url:http://en.wikipedia.org/wiki/Eternit
+CANDIDATE	id:27417693	inCount:20	outCount:36	links:	url:http://en.wikipedia.org/wiki/Eternit	name:Eternit	normalName:eternit	normalWikiTitle:eternit	predictedType:UNK	
+ENTITY	text:Beirut	normalName:beirut	predictedType:UNK	q:true	qid:Q208	docId:208	origText:Beirut	url:http://en.wikipedia.org/wiki/Beirut
+CANDIDATE	id:37428	inCount:4850	outCount:765	links:9848049;23370872;32976625;419211;42710804;2886010	url:http://en.wikipedia.org/wiki/Beirut	name:Beirut	normalName:beirut	normalWikiTitle:beirut	predictedType:GPE	
+CANDIDATE	id:42710804	inCount:25	outCount:138	links:37428;42710804	url:http://en.wikipedia.org/wiki/Greater_Beirut	name:Greater Beirut	normalName:greater-beirut	normalWikiTitle:greater-beirut	predictedType:UNK	
+CANDIDATE	id:5132085	inCount:174	outCount:89	links:5132085	url:http://en.wikipedia.org/wiki/Beirut_(band)	name:Beirut	normalName:beirut	normalWikiTitle:beirut-band	predictedType:UNK	
+CANDIDATE	id:419211	inCount:183	outCount:229	links:37428	url:http://en.wikipedia.org/wiki/1983_Beirut_barracks_bombing	name:1983 Beirut barracks bombing	normalName:1983-beirut-barracks-bombing	normalWikiTitle:1983-beirut-barracks-bombing	predictedType:UNK	
+CANDIDATE	id:32976625	inCount:2	outCount:14	links:37428	url:http://en.wikipedia.org/wiki/Beirut_Hotel	name:Beirut Hotel	normalName:beirut-hotel	normalWikiTitle:beirut-hotel	predictedType:UNK	
+CANDIDATE	id:23370872	inCount:13	outCount:24	links:37428	url:http://en.wikipedia.org/wiki/Beirut_River	name:Beirut River	normalName:beirut-river	normalWikiTitle:beirut-river	predictedType:UNK	

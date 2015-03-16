@@ -1,0 +1,64 @@
+ENTITY	text:Bank of France	normalName:bank-of-france	predictedType:UNK	q:true	qid:Q498	docId:498	origText:Bank of France	url:http://en.wikipedia.org/wiki/Banque_de_France
+CANDIDATE	id:749262	inCount:346	outCount:286	links:22989	url:http://en.wikipedia.org/wiki/Banque_de_France	name:Banque de France	normalName:banque-de-france	normalWikiTitle:banque-de-france	predictedType:UNK	
+ENTITY	text:PARIS	normalName:paris	predictedType:UNK	q:true	qid:Q498	docId:498	origText:PARIS	url:http://en.wikipedia.org/wiki/Paris
+CANDIDATE	id:22989	inCount:46849	outCount:1623	links:33006596;22192200;22989;84692;705310;3453075;513436;295105;1973841;932079;749262;7758150	url:http://en.wikipedia.org/wiki/Paris	name:Paris	normalName:paris	normalWikiTitle:paris	predictedType:UNK	
+CANDIDATE	id:7758150	inCount:2	outCount:9	links:22989	url:http://en.wikipedia.org/wiki/Paris,_Paris	name:Paris, Paris	normalName:paris-paris	normalWikiTitle:paris-paris	predictedType:UNK	
+CANDIDATE	id:3453075	inCount:551	outCount:133	links:22989	url:http://en.wikipedia.org/wiki/Paris_Opera	name:Paris Opera	normalName:paris-opera	normalWikiTitle:paris-opera	predictedType:ORG	
+CANDIDATE	id:295105	inCount:1324	outCount:361	links:295105;22989	url:http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919	name:Paris Peace Conference, 1919	normalName:paris-peace-conference-1919	normalWikiTitle:paris-peace-conference-1919	predictedType:UNK	
+CANDIDATE	id:1973841	inCount:442	outCount:93	links:22989	url:http://en.wikipedia.org/wiki/Paris_FC	name:Paris FC	normalName:paris-fc	normalWikiTitle:paris-fc	predictedType:UNK	
+CANDIDATE	id:10308003	inCount:1	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TN_μSA	name:Paris, TN μSA	normalName:paris-tn-μsa	normalWikiTitle:paris-tn-μsa	predictedType:PER	
+CANDIDATE	id:31420657	inCount:1	outCount:7	links:	url:http://en.wikipedia.org/wiki/Paris,_Denmark	name:Paris, Denmark	normalName:paris-denmark	normalWikiTitle:paris-denmark	predictedType:UNK	
+CANDIDATE	id:6198965	inCount:2	outCount:10	links:	url:http://en.wikipedia.org/wiki/Little_Paris	name:Little Paris	normalName:little-paris	normalWikiTitle:little-paris	predictedType:UNK	
+CANDIDATE	id:5655865	inCount:40	outCount:58	links:141772	url:http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin	name:Paris (community), Wisconsin	normalName:paris-community-wisconsin	normalWikiTitle:paris-community-wisconsin	predictedType:UNK	
+CANDIDATE	id:111145	inCount:145	outCount:93	links:	url:http://en.wikipedia.org/wiki/Paris,_Illinois	name:Paris, Illinois	normalName:paris-illinois	normalWikiTitle:paris-illinois	predictedType:UNK	
+CANDIDATE	id:248424	inCount:203	outCount:53	links:	url:http://en.wikipedia.org/wiki/Paris,_Ontario	name:Paris, Ontario	normalName:paris-ontario	normalWikiTitle:paris-ontario	predictedType:GPE	
+CANDIDATE	id:23768447	inCount:3	outCount:33	links:	url:http://en.wikipedia.org/wiki/Paris,_Not_France	name:Paris, Not France	normalName:paris-not-france	normalWikiTitle:paris-not-france	predictedType:UNK	
+CANDIDATE	id:10224966	inCount:1	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TX_μSA	name:Paris, TX μSA	normalName:paris-tx-μsa	normalWikiTitle:paris-tx-μsa	predictedType:PER	
+CANDIDATE	id:18746173	inCount:0	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TN_µSA	name:Paris, TN µSA	normalName:paris-tn-µsa	normalWikiTitle:paris-tn-µsa	predictedType:PER	
+CANDIDATE	id:22192200	inCount:73	outCount:81	links:22989	url:http://en.wikipedia.org/wiki/.paris	name:.paris	normalName:paris	normalWikiTitle:paris	predictedType:UNK	
+CANDIDATE	id:31631798	inCount:30	outCount:59	links:	url:http://en.wikipedia.org/wiki/Paris,_Iowa	name:Paris, Iowa	normalName:paris-iowa	normalWikiTitle:paris-iowa	predictedType:UNK	
+CANDIDATE	id:4380507	inCount:178	outCount:264	links:	url:http://en.wikipedia.org/wiki/Count_Paris	name:Count Paris	normalName:count-paris	normalWikiTitle:count-paris	predictedType:UNK	
+CANDIDATE	id:3320433	inCount:8	outCount:13	links:	url:http://en.wikipedia.org/wiki/Paris_(genus)	name:Paris	normalName:paris	normalWikiTitle:paris-genus	predictedType:PER	
+CANDIDATE	id:1645419	inCount:7	outCount:11	links:	url:http://en.wikipedia.org/wiki/Paris,_Texas_(band)	name:Paris, Texas	normalName:paris-texas	normalWikiTitle:paris-texas-band	predictedType:UNK	
+CANDIDATE	id:4360088	inCount:0	outCount:257	links:	url:http://en.wikipedia.org/wiki/Paris,_je_t'aime	name:Paris, je t'aime	normalName:paris-je-taime	normalWikiTitle:paris-je-taime	predictedType:UNK	
+CANDIDATE	id:141772	inCount:0	outCount:3	links:5655865	url:http://en.wikipedia.org/wiki/Paris,_Wisconsin	name:Paris, Wisconsin	normalName:paris-wisconsin	normalWikiTitle:paris-wisconsin	predictedType:GPE	
+CANDIDATE	id:18746176	inCount:0	outCount:1	links:	url:http://en.wikipedia.org/wiki/Paris,_TX_µSA	name:Paris, TX µSA	normalName:paris-tx-µsa	normalWikiTitle:paris-tx-µsa	predictedType:PER	
+CANDIDATE	id:36726996	inCount:15	outCount:33	links:	url:http://en.wikipedia.org/wiki/Paris,_Mississippi	name:Paris, Mississippi	normalName:paris-mississippi	normalWikiTitle:paris-mississippi	predictedType:GPE	
+CANDIDATE	id:705310	inCount:278	outCount:202	links:22989	url:http://en.wikipedia.org/wiki/Paris_Las_Vegas	name:Paris Las Vegas	normalName:paris-las-vegas	normalWikiTitle:paris-las-vegas	predictedType:ORG	
+CANDIDATE	id:11287669	inCount:34	outCount:38	links:	url:http://en.wikipedia.org/wiki/SS_Paris_(1916)	name:SS Paris	normalName:ss-paris	normalWikiTitle:ss-paris-1916	predictedType:UNK	
+CANDIDATE	id:32977266	inCount:16	outCount:20	links:	url:http://en.wikipedia.org/wiki/Paris_(band)	name:Paris	normalName:paris	normalWikiTitle:paris-band	predictedType:UNK	
+CANDIDATE	id:35318735	inCount:24	outCount:35	links:	url:http://en.wikipedia.org/wiki/Paris_(Ooh_La_La)	name:Paris	normalName:paris	normalWikiTitle:paris-ooh-la-la	predictedType:UNK	
+CANDIDATE	id:15956462	inCount:49	outCount:46	links:	url:http://en.wikipedia.org/wiki/Paris,_Tokyo	name:Paris, Tokyo	normalName:paris-tokyo	normalWikiTitle:paris-tokyo	predictedType:UNK	
+CANDIDATE	id:33006596	inCount:259	outCount:318	links:22989	url:http://en.wikipedia.org/wiki/Niggas_in_Paris	name:Niggas in Paris	normalName:niggas-in-paris	normalWikiTitle:niggas-in-paris	predictedType:UNK	
+CANDIDATE	id:1853308	inCount:0	outCount:9	links:	url:http://en.wikipedia.org/wiki/Paris_Airport	name:Paris Airport	normalName:paris-airport	normalWikiTitle:paris-airport	predictedType:UNK	
+CANDIDATE	id:9289655	inCount:5	outCount:10	links:	url:http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian)	name:Paris	normalName:paris	normalWikiTitle:paris-actor-under-domitian	predictedType:PER	
+CANDIDATE	id:9628841	inCount:59	outCount:65	links:	url:http://en.wikipedia.org/wiki/Paris,_Ohio	name:Paris, Ohio	normalName:paris-ohio	normalWikiTitle:paris-ohio	predictedType:GPE	
+CANDIDATE	id:8506637	inCount:3	outCount:18	links:	url:http://en.wikipedia.org/wiki/París_(retail)	name:París	normalName:paris	normalWikiTitle:paris-retail	predictedType:UNK	
+CANDIDATE	id:42983166	inCount:4	outCount:22	links:	url:http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404	name:Paris, BN, lat. 4404	normalName:paris-bn-lat-4404	normalWikiTitle:paris-bn-lat-4404	predictedType:UNK	
+CANDIDATE	id:932079	inCount:86	outCount:56	links:247095;22989	url:http://en.wikipedia.org/wiki/Paris_Club	name:Paris Club	normalName:paris-club	normalWikiTitle:paris-club	predictedType:UNK	
+CANDIDATE	id:84692	inCount:2888	outCount:164	links:22989	url:http://en.wikipedia.org/wiki/University_of_Paris	name:University of Paris	normalName:university-of-paris	normalWikiTitle:university-of-paris	predictedType:ORG	
+CANDIDATE	id:14609428	inCount:2	outCount:9	links:	url:http://en.wikipedia.org/wiki/Paris,_Kiribati	name:Paris, Kiribati	normalName:paris-kiribati	normalWikiTitle:paris-kiribati	predictedType:UNK	
+CANDIDATE	id:14384812	inCount:9	outCount:11	links:14384812	url:http://en.wikipedia.org/wiki/Paris_(Pantheon)	name:Paris	normalName:paris	normalWikiTitle:paris-pantheon	predictedType:UNK	
+CANDIDATE	id:513436	inCount:42	outCount:51	links:22989	url:http://en.wikipedia.org/wiki/Paris,_Yukon	name:Paris, Yukon	normalName:paris-yukon	normalWikiTitle:paris-yukon	predictedType:UNK	
+CANDIDATE	id:3111017	inCount:137	outCount:216	links:	url:http://en.wikipedia.org/wiki/Paris,_Pennsylvania	name:Paris, Pennsylvania	normalName:paris-pennsylvania	normalWikiTitle:paris-pennsylvania	predictedType:GPE	
+CANDIDATE	id:13482794	inCount:52	outCount:61	links:	url:http://en.wikipedia.org/wiki/Paris,_Virginia	name:Paris, Virginia	normalName:paris-virginia	normalWikiTitle:paris-virginia	predictedType:GPE	
+CANDIDATE	id:212144	inCount:63	outCount:47	links:	url:http://en.wikipedia.org/wiki/Paris_(rapper)	name:Paris	normalName:paris	normalWikiTitle:paris-rapper	predictedType:UNK	
+ENTITY	text:Bank of France	normalName:bank-of-france	predictedType:UNK	q:true	qid:Q498	docId:498	origText:Bank of France	url:http://en.wikipedia.org/wiki/Banque_de_France
+CANDIDATE	id:749262	inCount:346	outCount:286	links:22989	url:http://en.wikipedia.org/wiki/Banque_de_France	name:Banque de France	normalName:banque-de-france	normalWikiTitle:banque-de-france	predictedType:UNK	
+ENTITY	text:Bank of France	normalName:bank-of-france	predictedType:UNK	q:true	qid:Q498	docId:498	origText:Bank of France	url:http://en.wikipedia.org/wiki/Banque_de_France
+CANDIDATE	id:749262	inCount:346	outCount:286	links:22989	url:http://en.wikipedia.org/wiki/Banque_de_France	name:Banque de France	normalName:banque-de-france	normalWikiTitle:banque-de-france	predictedType:UNK	
+ENTITY	text:Treasury	normalName:treasury	predictedType:UNK	q:true	qid:Q498	docId:498	origText:Treasury	url:NIL
+CANDIDATE	id:247095	inCount:335	outCount:53	links:176736;5429563;53667;932079	url:http://en.wikipedia.org/wiki/Treasury	name:Treasury	normalName:treasury	normalWikiTitle:treasury	predictedType:UNK	
+CANDIDATE	id:37004509	inCount:44	outCount:69	links:	url:http://en.wikipedia.org/wiki/The_Treasury_(New_South_Wales)	name:The Treasury	normalName:the-treasury	normalWikiTitle:the-treasury-new-south-wales	predictedType:UNK	
+CANDIDATE	id:1235068	inCount:4	outCount:5	links:1235068	url:http://en.wikipedia.org/wiki/Treasury_services	name:Treasury services	normalName:treasury-services	normalWikiTitle:treasury-services	predictedType:UNK	
+CANDIDATE	id:17369751	inCount:82	outCount:120	links:53667	url:http://en.wikipedia.org/wiki/Treasury_Building_(Washington,_D.C.)	name:Treasury Building	normalName:treasury-building	normalWikiTitle:treasury-building-washington-dc	predictedType:UNK	
+CANDIDATE	id:53667	inCount:1431	outCount:107	links:17369751;53667;247095	url:http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury	name:United States Department of the Treasury	normalName:united-states-department-of-the-treasury	normalWikiTitle:united-states-department-of-the-treasury	predictedType:ORG	
+CANDIDATE	id:2652657	inCount:70	outCount:91	links:	url:http://en.wikipedia.org/wiki/Treasury_Building,_Brisbane	name:Treasury Building, Brisbane	normalName:treasury-building-brisbane	normalWikiTitle:treasury-building-brisbane	predictedType:UNK	
+CANDIDATE	id:4658610	inCount:130	outCount:96	links:	url:http://en.wikipedia.org/wiki/National_Treasury_(South_Africa)	name:National Treasury	normalName:national-treasury	normalWikiTitle:national-treasury-south-africa	predictedType:UNK	
+CANDIDATE	id:5429563	inCount:116	outCount:50	links:247095	url:http://en.wikipedia.org/wiki/Department_of_the_Treasury_(Australia)	name:Department of the Treasury	normalName:department-of-the-treasury	normalWikiTitle:department-of-the-treasury-australia	predictedType:UNK	
+CANDIDATE	id:3333017	inCount:188	outCount:135	links:	url:http://en.wikipedia.org/wiki/Treasury_Islands	name:Treasury Islands	normalName:treasury-islands	normalWikiTitle:treasury-islands	predictedType:UNK	
+CANDIDATE	id:176736	inCount:1007	outCount:349	links:176736;247095	url:http://en.wikipedia.org/wiki/HM_Treasury	name:HM Treasury	normalName:hm-treasury	normalWikiTitle:hm-treasury	predictedType:UNK	
+CANDIDATE	id:5185976	inCount:13	outCount:35	links:	url:http://en.wikipedia.org/wiki/The_Treasury_(store)	name:The Treasury	normalName:the-treasury	normalWikiTitle:the-treasury-store	predictedType:UNK	
+CANDIDATE	id:12297251	inCount:0	outCount:6	links:	url:http://en.wikipedia.org/wiki/Treasury_company	name:Treasury company	normalName:treasury-company	normalWikiTitle:treasury-company	predictedType:UNK	
+CANDIDATE	id:18060850	inCount:18	outCount:33	links:	url:http://en.wikipedia.org/wiki/A_Treasury	name:A Treasury	normalName:a-treasury	normalWikiTitle:a-treasury	predictedType:UNK	
+CANDIDATE	id:4999724	inCount:93	outCount:41	links:	url:http://en.wikipedia.org/wiki/New_Zealand_Treasury	name:New Zealand Treasury	normalName:new-zealand-treasury	normalWikiTitle:new-zealand-treasury	predictedType:ORG	

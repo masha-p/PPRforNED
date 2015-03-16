@@ -1,0 +1,20 @@
+ENTITY	text:Bahraini	normalName:bahraini	predictedType:UNK	q:true	qid:Q1146	docId:1146	origText:Bahraini	url:http://en.wikipedia.org/wiki/Bahrain
+CANDIDATE	id:18933277	inCount:6688	outCount:721	links:21117206;20481;12835613;10518140;18933277	url:http://en.wikipedia.org/wiki/Bahrain	name:Bahrain	normalName:bahrain	normalWikiTitle:bahrain	predictedType:GPE	
+CANDIDATE	id:12835613	inCount:355	outCount:362	links:18933277	url:http://en.wikipedia.org/wiki/Bahraini_cuisine	name:Bahraini cuisine	normalName:bahraini-cuisine	normalWikiTitle:bahraini-cuisine	predictedType:ORG	
+ENTITY	text:MANAMA	normalName:manama	predictedType:UNK	q:true	qid:Q1146	docId:1146	origText:MANAMA	url:http://en.wikipedia.org/wiki/Manama
+CANDIDATE	id:20481	inCount:1052	outCount:477	links:18933277;16290997;10518140	url:http://en.wikipedia.org/wiki/Manama	name:Manama	normalName:manama	normalWikiTitle:manama	predictedType:GPE	
+CANDIDATE	id:10518140	inCount:61	outCount:37	links:20481;18933277	url:http://en.wikipedia.org/wiki/Manama_Club	name:Manama Club	normalName:manama-club	normalWikiTitle:manama-club	predictedType:GPE	
+CANDIDATE	id:21407678	inCount:36	outCount:54	links:28360756	url:http://en.wikipedia.org/wiki/Manama,_Zimbabwe	name:Manama, Zimbabwe	normalName:manama-zimbabwe	normalWikiTitle:manama-zimbabwe	predictedType:GPE	
+CANDIDATE	id:16290997	inCount:15	outCount:18	links:20481	url:http://en.wikipedia.org/wiki/Manama,_Ajman	name:Manama, Ajman	normalName:manama-ajman	normalWikiTitle:manama-ajman	predictedType:UNK	
+CANDIDATE	id:28360756	inCount:34	outCount:52	links:21407678	url:http://en.wikipedia.org/wiki/Manama_(village)	name:Manama	normalName:manama	normalWikiTitle:manama-village	predictedType:GPE	
+ENTITY	text:Bahraini	normalName:bahraini	predictedType:UNK	q:true	qid:Q1146	docId:1146	origText:Bahraini	url:http://en.wikipedia.org/wiki/Bahrain
+CANDIDATE	id:18933277	inCount:6688	outCount:721	links:21117206;20481;12835613;10518140;18933277	url:http://en.wikipedia.org/wiki/Bahrain	name:Bahrain	normalName:bahrain	normalWikiTitle:bahrain	predictedType:GPE	
+CANDIDATE	id:12835613	inCount:355	outCount:362	links:18933277	url:http://en.wikipedia.org/wiki/Bahraini_cuisine	name:Bahraini cuisine	normalName:bahraini-cuisine	normalWikiTitle:bahraini-cuisine	predictedType:ORG	
+ENTITY	text:al-Daih	normalName:al-daih	predictedType:UNK	q:true	qid:Q1146	docId:1146	origText:al-Daih	url:NIL
+CANDIDATE	id:21117206	inCount:11	outCount:8	links:18933277	url:http://en.wikipedia.org/wiki/Al_Daih	name:Al Daih	normalName:al-daih	normalWikiTitle:al-daih	predictedType:GPE	
+ENTITY	text:Manama	normalName:manama	predictedType:UNK	q:true	qid:Q1146	docId:1146	origText:Manama	url:http://en.wikipedia.org/wiki/Manama
+CANDIDATE	id:20481	inCount:1052	outCount:477	links:18933277;16290997;10518140	url:http://en.wikipedia.org/wiki/Manama	name:Manama	normalName:manama	normalWikiTitle:manama	predictedType:GPE	
+CANDIDATE	id:10518140	inCount:61	outCount:37	links:20481;18933277	url:http://en.wikipedia.org/wiki/Manama_Club	name:Manama Club	normalName:manama-club	normalWikiTitle:manama-club	predictedType:GPE	
+CANDIDATE	id:21407678	inCount:36	outCount:54	links:28360756	url:http://en.wikipedia.org/wiki/Manama,_Zimbabwe	name:Manama, Zimbabwe	normalName:manama-zimbabwe	normalWikiTitle:manama-zimbabwe	predictedType:GPE	
+CANDIDATE	id:16290997	inCount:15	outCount:18	links:20481	url:http://en.wikipedia.org/wiki/Manama,_Ajman	name:Manama, Ajman	normalName:manama-ajman	normalWikiTitle:manama-ajman	predictedType:UNK	
+CANDIDATE	id:28360756	inCount:34	outCount:52	links:21407678	url:http://en.wikipedia.org/wiki/Manama_(village)	name:Manama	normalName:manama	normalWikiTitle:manama-village	predictedType:GPE	

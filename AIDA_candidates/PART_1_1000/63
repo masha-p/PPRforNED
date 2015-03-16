@@ -1,0 +1,45 @@
+ENTITY	text:OFFICIAL JOURNAL	normalName:official-journal	predictedType:UNK	q:true	qid:Q63	docId:63	origText:OFFICIAL JOURNAL	url:NIL
+CANDIDATE	id:3198308	inCount:52	outCount:85	links:	url:http://en.wikipedia.org/wiki/Official_Journal_of_the_European_Patent_Office	name:Official Journal of the European Patent Office	normalName:official-journal-of-the-european-patent-office	normalWikiTitle:official-journal-of-the-european-patent-office	predictedType:UNK	
+ENTITY	text:OJ	normalName:oj	predictedType:UNK	q:true	qid:Q63	docId:63	origText:OJ	url:NIL
+CANDIDATE	id:818683	inCount:187	outCount:127	links:818683	url:http://en.wikipedia.org/wiki/Oj,_svijetla_majska_zoro	name:Oj, svijetla majska zoro	normalName:oj-svijetla-majska-zoro	normalWikiTitle:oj-svijetla-majska-zoro	predictedType:UNK	
+CANDIDATE	id:9415401	inCount:91	outCount:55	links:	url:http://en.wikipedia.org/wiki/Oj,_oj,_oj,_så_glad_jeg_skal_bli	name:Oj, oj, oj, så glad jeg skal bli	normalName:oj-oj-oj-sa-glad-jeg-skal-bli	normalWikiTitle:oj-oj-oj-sa-glad-jeg-skal-bli	predictedType:UNK	
+CANDIDATE	id:3624173	inCount:1	outCount:6	links:	url:http://en.wikipedia.org/wiki/Oj,_Jelena,_Jelena,_jabuka_zelena	name:Oj, Jelena, Jelena, jabuka zelena	normalName:oj-jelena-jelena-jabuka-zelena	normalWikiTitle:oj-jelena-jelena-jabuka-zelena	predictedType:UNK	
+ENTITY	text:OFFICIAL JOURNAL	normalName:official-journal	predictedType:UNK	q:true	qid:Q63	docId:63	origText:Journal	url:NIL
+CANDIDATE	id:3198308	inCount:52	outCount:85	links:	url:http://en.wikipedia.org/wiki/Official_Journal_of_the_European_Patent_Office	name:Official Journal of the European Patent Office	normalName:official-journal-of-the-european-patent-office	normalWikiTitle:official-journal-of-the-european-patent-office	predictedType:UNK	
+ENTITY	text:Commission Regulation	normalName:commission-regulation	predictedType:UNK	q:true	qid:Q63	docId:63	origText:Commission Regulation	url:NIL
+CANDIDATE	id:708000	inCount:216	outCount:306	links:9578	url:http://en.wikipedia.org/wiki/Regulation_(European_Union)	name:Regulation	normalName:regulation	normalWikiTitle:regulation-european-union	predictedType:UNK	
+ENTITY	text:EC	normalName:ec	predictedType:UNK	q:true	qid:Q63	docId:63	origText:EC	url:NIL
+CANDIDATE	id:1432886	inCount:207	outCount:181	links:	url:http://en.wikipedia.org/wiki/EC_postcode_area	name:EC postcode area	normalName:ec-postcode-area	normalWikiTitle:ec-postcode-area	predictedType:GPE	
+CANDIDATE	id:113600	inCount:648	outCount:266	links:113600	url:http://en.wikipedia.org/wiki/EC_Comics	name:EC Comics	normalName:ec-comics	normalWikiTitle:ec-comics	predictedType:UNK	
+CANDIDATE	id:32499	inCount:507	outCount:175	links:32499	url:http://en.wikipedia.org/wiki/Vector_graphics	name:Vector graphics	normalName:vector-graphics	normalWikiTitle:vector-graphics	predictedType:UNK	
+CANDIDATE	id:9578	inCount:1389	outCount:269	links:708000;9578	url:http://en.wikipedia.org/wiki/European_Economic_Community	name:European Economic Community	normalName:european-economic-community	normalWikiTitle:european-economic-community	predictedType:UNK	
+CANDIDATE	id:1111943	inCount:280	outCount:311	links:	url:http://en.wikipedia.org/wiki/.ec	name:.ec	normalName:ec	normalWikiTitle:ec	predictedType:UNK	
+CANDIDATE	id:50449	inCount:3690	outCount:274	links:	url:http://en.wikipedia.org/wiki/The_Economist	name:The Economist	normalName:the-economist	normalWikiTitle:the-economist	predictedType:UNK	
+CANDIDATE	id:9632	inCount:2493	outCount:542	links:	url:http://en.wikipedia.org/wiki/Ecosystem	name:Ecosystem	normalName:ecosystem	normalWikiTitle:ecosystem	predictedType:UNK	
+CANDIDATE	id:54309	inCount:274	outCount:176	links:	url:http://en.wikipedia.org/wiki/Ectopic_pregnancy	name:Ectopic pregnancy	normalName:ectopic-pregnancy	normalWikiTitle:ectopic-pregnancy	predictedType:UNK	
+ENTITY	text:Commission Regulation	normalName:commission-regulation	predictedType:UNK	q:true	qid:Q63	docId:63	origText:Commission Regulation	url:NIL
+CANDIDATE	id:708000	inCount:216	outCount:306	links:9578	url:http://en.wikipedia.org/wiki/Regulation_(European_Union)	name:Regulation	normalName:regulation	normalWikiTitle:regulation-european-union	predictedType:UNK	
+ENTITY	text:EC	normalName:ec	predictedType:UNK	q:true	qid:Q63	docId:63	origText:EC	url:NIL
+CANDIDATE	id:1432886	inCount:207	outCount:181	links:	url:http://en.wikipedia.org/wiki/EC_postcode_area	name:EC postcode area	normalName:ec-postcode-area	normalWikiTitle:ec-postcode-area	predictedType:GPE	
+CANDIDATE	id:113600	inCount:648	outCount:266	links:113600	url:http://en.wikipedia.org/wiki/EC_Comics	name:EC Comics	normalName:ec-comics	normalWikiTitle:ec-comics	predictedType:UNK	
+CANDIDATE	id:32499	inCount:507	outCount:175	links:32499	url:http://en.wikipedia.org/wiki/Vector_graphics	name:Vector graphics	normalName:vector-graphics	normalWikiTitle:vector-graphics	predictedType:UNK	
+CANDIDATE	id:9578	inCount:1389	outCount:269	links:708000;9578	url:http://en.wikipedia.org/wiki/European_Economic_Community	name:European Economic Community	normalName:european-economic-community	normalWikiTitle:european-economic-community	predictedType:UNK	
+CANDIDATE	id:1111943	inCount:280	outCount:311	links:	url:http://en.wikipedia.org/wiki/.ec	name:.ec	normalName:ec	normalWikiTitle:ec	predictedType:UNK	
+CANDIDATE	id:50449	inCount:3690	outCount:274	links:	url:http://en.wikipedia.org/wiki/The_Economist	name:The Economist	normalName:the-economist	normalWikiTitle:the-economist	predictedType:UNK	
+CANDIDATE	id:9632	inCount:2493	outCount:542	links:	url:http://en.wikipedia.org/wiki/Ecosystem	name:Ecosystem	normalName:ecosystem	normalWikiTitle:ecosystem	predictedType:UNK	
+CANDIDATE	id:54309	inCount:274	outCount:176	links:	url:http://en.wikipedia.org/wiki/Ectopic_pregnancy	name:Ectopic pregnancy	normalName:ectopic-pregnancy	normalWikiTitle:ectopic-pregnancy	predictedType:UNK	
+ENTITY	text:OJ	normalName:oj	predictedType:UNK	q:true	qid:Q63	docId:63	origText:OJ	url:NIL
+CANDIDATE	id:818683	inCount:187	outCount:127	links:818683	url:http://en.wikipedia.org/wiki/Oj,_svijetla_majska_zoro	name:Oj, svijetla majska zoro	normalName:oj-svijetla-majska-zoro	normalWikiTitle:oj-svijetla-majska-zoro	predictedType:UNK	
+CANDIDATE	id:9415401	inCount:91	outCount:55	links:	url:http://en.wikipedia.org/wiki/Oj,_oj,_oj,_så_glad_jeg_skal_bli	name:Oj, oj, oj, så glad jeg skal bli	normalName:oj-oj-oj-sa-glad-jeg-skal-bli	normalWikiTitle:oj-oj-oj-sa-glad-jeg-skal-bli	predictedType:UNK	
+CANDIDATE	id:3624173	inCount:1	outCount:6	links:	url:http://en.wikipedia.org/wiki/Oj,_Jelena,_Jelena,_jabuka_zelena	name:Oj, Jelena, Jelena, jabuka zelena	normalName:oj-jelena-jelena-jabuka-zelena	normalWikiTitle:oj-jelena-jelena-jabuka-zelena	predictedType:UNK	
+ENTITY	text:Commission Regulation	normalName:commission-regulation	predictedType:UNK	q:true	qid:Q63	docId:63	origText:Commission Regulation	url:NIL
+CANDIDATE	id:708000	inCount:216	outCount:306	links:9578	url:http://en.wikipedia.org/wiki/Regulation_(European_Union)	name:Regulation	normalName:regulation	normalWikiTitle:regulation-european-union	predictedType:UNK	
+ENTITY	text:EC	normalName:ec	predictedType:UNK	q:true	qid:Q63	docId:63	origText:EC	url:NIL
+CANDIDATE	id:1432886	inCount:207	outCount:181	links:	url:http://en.wikipedia.org/wiki/EC_postcode_area	name:EC postcode area	normalName:ec-postcode-area	normalWikiTitle:ec-postcode-area	predictedType:GPE	
+CANDIDATE	id:113600	inCount:648	outCount:266	links:113600	url:http://en.wikipedia.org/wiki/EC_Comics	name:EC Comics	normalName:ec-comics	normalWikiTitle:ec-comics	predictedType:UNK	
+CANDIDATE	id:32499	inCount:507	outCount:175	links:32499	url:http://en.wikipedia.org/wiki/Vector_graphics	name:Vector graphics	normalName:vector-graphics	normalWikiTitle:vector-graphics	predictedType:UNK	
+CANDIDATE	id:9578	inCount:1389	outCount:269	links:708000;9578	url:http://en.wikipedia.org/wiki/European_Economic_Community	name:European Economic Community	normalName:european-economic-community	normalWikiTitle:european-economic-community	predictedType:UNK	
+CANDIDATE	id:1111943	inCount:280	outCount:311	links:	url:http://en.wikipedia.org/wiki/.ec	name:.ec	normalName:ec	normalWikiTitle:ec	predictedType:UNK	
+CANDIDATE	id:50449	inCount:3690	outCount:274	links:	url:http://en.wikipedia.org/wiki/The_Economist	name:The Economist	normalName:the-economist	normalWikiTitle:the-economist	predictedType:UNK	
+CANDIDATE	id:9632	inCount:2493	outCount:542	links:	url:http://en.wikipedia.org/wiki/Ecosystem	name:Ecosystem	normalName:ecosystem	normalWikiTitle:ecosystem	predictedType:UNK	
+CANDIDATE	id:54309	inCount:274	outCount:176	links:	url:http://en.wikipedia.org/wiki/Ectopic_pregnancy	name:Ectopic pregnancy	normalName:ectopic-pregnancy	normalWikiTitle:ectopic-pregnancy	predictedType:UNK	
