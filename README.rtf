@@ -42,11 +42,9 @@ If entity does not have a correct link in AIDA document, then it has "
 \i0 \
 \
 Lines after entity are candidates for this entity.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 The first line after entity is the correct candidate if this entity has one, for example first line after Syria entity in file 9 is\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+The first line after entity is the correct candidate if this entity has one, for example first line after Syria entity in file 9 is\
 
-\i \cf0 CANDIDATE	id:7515849	inCount:15845	outCount:721	links:1928858;12793336;2245563;879212;28542628;39513173;7515849;27473	url:http://en.wikipedia.org/wiki/Syria	name:Syria	normalName:syria	normalWikiTitle:syria	predictedType:GPE	\
+\i CANDIDATE	id:7515849	inCount:15845	outCount:721	links:1928858;12793336;2245563;879212;28542628;39513173;7515849;27473	url:http://en.wikipedia.org/wiki/Syria	name:Syria	normalName:syria	normalWikiTitle:syria	predictedType:GPE	\
 
 \i0 Every candidate has unique ID ("
 \i id:7515849") 
@@ -69,10 +67,8 @@ Field "
 \i0 \
 \
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 ===================================\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 Graph construction.\
+===================================\
+Graph construction.\
 \
 Every entity is its normalName concatenated with its correct URL.\
 There may be several entities in the document with identical normalName and identical correct URL - they are all collapsed together since they have identical set of candidates.\
@@ -81,21 +77,17 @@ If same candidate is generated for two different entities then there will be two
 These nodes, corresponding to the same candidate, will be connected by an edge.\
 Edges are inserted between nodes for different entities whenever one of nodes has an outgoing link to another one.\
 There are no edges between nodes, generated for the same entity.\
-\
+Freebase scores, used as initial similarity, are normalized across all candidates for each entity.\
 \
 ===================================\
 Personalized Page Rank.\
 \
 To compute PPR weights we use the Monte Carlo approach, proposed by Fogaras and Racz, 2004.\
 Every node is initialized with 2000 random walks, teleport probability is set to 0.2, five steps of PPR are performed.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 Experiments show, that dropping first iteration (walks, finished after first step of PPR) improves the performance.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 We take empirical distribution of all walks, finished after 2,3,4,5 steps of PPR to obtain pairwise weights PPR(source-->end).\
+Experiments show, that dropping first iteration (walks, finished after first step of PPR) improves the performance.\
+We take empirical distribution of all walks, finished after 2,3,4,5 steps of PPR to obtain pairwise weights PPR(source-->end).\
 Total number of finished walks is the same for all nodes and can be computed as a sum of geometric series\
 #finished = 0.2*0.8*2000 + 0.2*0.64*2000 + 0.2*0.512*2000 + 0.2*0.2048*2000 = 944.64\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 Thus, one can use #finished as a normalization factor to obtain distribution of walks for the source node.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
-\cf0 We combine them with Freebase popularity scores (initial similarity) and apply constraints to compute coherence using formula (3) in Section 4.2 (Coherence and Constraints).\
+Thus, one can use #finished as a normalization factor to obtain distribution of walks for the source node.\
+We combine them with Freebase popularity scores (initial similarity) and apply constraints to compute coherence using formula (3) in Section 4.2 (Coherence and Constraints).\
 We then compute final score using formula (5) in Section 4.3 (PPRSim).}
