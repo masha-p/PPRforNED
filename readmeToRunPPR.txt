@@ -20,7 +20,9 @@ String dir_in = “”;
 // Path to already created directory where output statistics will be written.
 String dir_out = “”;
 
-Running this code will produce three output files in the dir_out directory: “wrong_run_name” (disambiguation mistakes), 
+Running this code will produce three output files in the dir_out directory: 
+
+“wrong_run_name” (disambiguation mistakes), 
 “correct_run_name” (correct output), 
 “all_run_name” (both).
 
