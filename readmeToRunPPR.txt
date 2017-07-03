@@ -1,5 +1,7 @@
 # personalized_page_rank_for_named_entity_disambiguation
-This repository contains code used in the NAACL 2015 paper "Personalized Page Rank for Named Entity Disambiguation" by Maria Pershina, Yifan He, Ralph Grishman. Please consider citing our paper.
+This repository contains code used in the NAACL 2015 paper "Personalized Page Rank for Named Entity Disambiguation" by Maria Pershina, Yifan He, Ralph Grishman. 
+
+Please consider citing our paper.
 
 This is java PPRforNED code.
 
